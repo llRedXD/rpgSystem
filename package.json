@@ -1,0 +1,28 @@
+{
+  "name": "rpg-ficha-interativa",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:all": "node scripts/dev-all.mjs",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "import:vault": "node scripts/import-vault.mjs",
+    "db:import": "node scripts/import-vault-db.mjs",
+    "db:admin": "node scripts/db-admin.mjs",
+    "api": "node scripts/db-api.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.0.0",
+    "typescript": "^5.8.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0"
+  }
+}
