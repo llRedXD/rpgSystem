@@ -1,0 +1,4775 @@
+{
+  "importedAt": "20/06/2026, 17:34:43",
+  "entities": [
+    {
+      "id": "diario-md",
+      "kind": "sessao",
+      "name": "md",
+      "tags": [],
+      "sourcePath": "_Diario/.md",
+      "frontmatter": {
+        "tipo": "sessao",
+        "numero": "",
+        "campanha": "",
+        "data": "",
+        "status": "concluida",
+        "localizacoes": [],
+        "npcs": [],
+        "jogadores": [],
+        "quests_iniciadas": [],
+        "quests_atualizadas": [],
+        "quests_concluidas": [],
+        "itens_obtidos": [],
+        "itens_perdidos": [],
+        "tags": [],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Resumo",
+          "content": "Resumo geral da sessão."
+        },
+        {
+          "title": "Eventos Importantes",
+          "content": "- Evento 1\n- Evento 2\n- Evento 3"
+        },
+        {
+          "title": "NPCs Envolvidos",
+          "content": "Lista dos NPCs importantes."
+        },
+        {
+          "title": "Quests",
+          "content": "Atualizações das missões."
+        },
+        {
+          "title": "Recompensas",
+          "content": "Itens, ouro, souls e conquistas."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Momentos marcantes da sessão."
+        }
+      ]
+    },
+    {
+      "id": "diario-2026-06-03-md",
+      "kind": "sessao",
+      "name": "2026.06.03",
+      "tags": [],
+      "sourcePath": "_Diario/2026.06.03.md",
+      "frontmatter": {
+        "tipo": "sessao",
+        "numero": "1",
+        "campanha": "",
+        "data": "",
+        "status": "concluida",
+        "localizacoes": [],
+        "npcs": [],
+        "jogadores": [],
+        "quests_iniciadas": [],
+        "quests_atualizadas": [],
+        "quests_concluidas": [],
+        "itens_obtidos": [],
+        "itens_perdidos": [],
+        "tags": [],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Resumo",
+          "content": "Resumo geral da sessão."
+        },
+        {
+          "title": "Eventos Importantes",
+          "content": "- Evento 1\n- Evento 2\n- Evento 3"
+        },
+        {
+          "title": "NPCs Envolvidos",
+          "content": "Lista dos NPCs importantes."
+        },
+        {
+          "title": "Quests",
+          "content": "Atualizações das missões."
+        },
+        {
+          "title": "Recompensas",
+          "content": "Itens, ouro, souls e conquistas."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Momentos marcantes da sessão."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-magia-estendida-extended-spell-md",
+      "kind": "habilidade",
+      "name": "Magia Estendida",
+      "originalName": "Extended Spell",
+      "icon": "⏳",
+      "level": 3,
+      "category": "Metamagia",
+      "action": "Passiva",
+      "cost": "1 Ponto de Feitiçaria",
+      "source": "Feiticeiro",
+      "range": "Magia Conjurada",
+      "tags": [
+        "Metamagia"
+      ],
+      "sourcePath": "_Habilidades/⏳ Magia Estendida (Extended Spell).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Magia Estendida",
+        "nome_original": "Extended Spell",
+        "fonte": "D&D 5e",
+        "origem": "Feiticeiro",
+        "arvore": "Metamagia",
+        "categoria": [
+          "Metamagia"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "1 Ponto de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Durante a Conjuração",
+        "duracao": "Variável",
+        "alcance_m": "",
+        "alcance_texto": "Magia Conjurada",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": false,
+        "equipada": true,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "⏳",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Metamagia"
+        ],
+        "aliases": [
+          "Extended Spell"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "[Resumo igual ao template]"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Quando conjurar uma magia com duração mínima de 1 minuto, você pode dobrar sua duração.\n\nA duração máxima possível é 24 horas."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Não altera concentração nem outros requisitos da magia."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Sua magia permanece presa ao mundo por mais tempo do que deveria."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-magia-acelerada-quickened-spell-md",
+      "kind": "habilidade",
+      "name": "Magia Acelerada",
+      "originalName": "Quickened Spell",
+      "icon": "⚡",
+      "level": 3,
+      "category": "Metamagia",
+      "action": "Passiva",
+      "cost": "2 Pontos de Feitiçaria",
+      "source": "Feiticeiro",
+      "range": "Magia Conjurada",
+      "tags": [
+        "Metamagia"
+      ],
+      "sourcePath": "_Habilidades/⚡ Magia Acelerada (Quickened Spell).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Magia Acelerada",
+        "nome_original": "Quickened Spell",
+        "fonte": "D&D 5e",
+        "origem": "Feiticeiro",
+        "arvore": "Metamagia",
+        "categoria": [
+          "Metamagia"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "2 Pontos de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Durante a Conjuração",
+        "duracao": "Instantânea",
+        "alcance_m": "",
+        "alcance_texto": "Magia Conjurada",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": true,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "⚡",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Metamagia"
+        ],
+        "aliases": [
+          "Quickened Spell"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Quando conjurar uma magia com tempo de conjuração de 1 ação, você pode gastar 2 Pontos de Feitiçaria para alterar o tempo de conjuração para 1 ação bônus."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Permite combinar a conjuração com outras ações durante o mesmo turno."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Sua magia flui tão rapidamente que parece antecipar sua própria vontade."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-forca-do-tumulo-strength-of-the-grave-md",
+      "kind": "habilidade",
+      "name": "Força do Túmulo",
+      "originalName": "Strength of the Grave",
+      "icon": "⚰️",
+      "level": 1,
+      "category": "Sobrevivência, Passiva",
+      "action": "Reação",
+      "cost": "2 Pontos de Feitiçaria",
+      "source": "Shadow Magic",
+      "range": "Eu mesmo",
+      "tags": [
+        "Sobrevivência",
+        "Kindred",
+        "ShadowMagic"
+      ],
+      "sourcePath": "_Habilidades/⚰️ Força do Túmulo (Strength of the Grave).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Força do Túmulo",
+        "nome_original": "Strength of the Grave",
+        "fonte": "D&D 5e",
+        "origem": "Shadow Magic",
+        "arvore": "Feitiçaria Sombria",
+        "categoria": [
+          "Sobrevivência",
+          "Passiva"
+        ],
+        "nivel_desbloqueio": 1,
+        "nivel_arvore": 1,
+        "acao": "Reação",
+        "custo": "2 Pontos de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Automática",
+        "duracao": "Instantânea",
+        "alcance_m": 0,
+        "alcance_texto": "Eu mesmo",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "Descanso Curto ou Longo",
+        "tipo_ataque": "",
+        "salvaguarda": "Constituição",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": true,
+        "icone": "⚰️",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Sobrevivência",
+          "Kindred",
+          "ShadowMagic"
+        ],
+        "aliases": [
+          "Strength of the Grave"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Quando seria reduzido a 0 Pontos de Vida, o feiticeiro pode canalizar as sombras que o envolvem e recusar a morte.\n\n- Permanece com 1 Ponto de Vida.\n- Ganha resistência a dano necrótico e psíquico por 1 rodada.\n- Consome 2 Pontos de Feitiçaria."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Após a ativação, realize um teste de Constituição (CD 10 + metade do dano recebido).\n\n- Sucesso: permanece consciente com 1 HP.\n- Falha: permanece vivo, porém inconsciente e instável.\n\nUsos adicionais antes do próximo descanso aumentam a CD em +3."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "As sombras envolvem o corpo como uma mortalha viva enquanto vozes distantes dos Kindred sussurram que ainda não chegou sua hora."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-magia-distante-distant-spell-md",
+      "kind": "habilidade",
+      "name": "Magia Distante",
+      "originalName": "Distant Spell",
+      "icon": "🌍",
+      "level": 3,
+      "category": "Metamagia",
+      "action": "Passiva",
+      "cost": "1 Ponto de Feitiçaria",
+      "source": "Feiticeiro",
+      "range": "Magia Conjurada",
+      "tags": [
+        "Metamagia"
+      ],
+      "sourcePath": "_Habilidades/🌍 Magia Distante (Distant Spell).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Magia Distante",
+        "nome_original": "Distant Spell",
+        "fonte": "D&D 5e",
+        "origem": "Feiticeiro",
+        "arvore": "Metamagia",
+        "categoria": [
+          "Metamagia"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "1 Ponto de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Durante a Conjuração",
+        "duracao": "Instantânea",
+        "alcance_m": "",
+        "alcance_texto": "Magia Conjurada",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": false,
+        "equipada": true,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "🌍",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Metamagia"
+        ],
+        "aliases": [
+          "Distant Spell"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Quando conjurar uma magia com alcance de 1,5 metro ou maior, você pode dobrar seu alcance.\n\nSe a magia possuir alcance de toque, seu alcance passa a ser 9 metros."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Não afeta magias de alcance pessoal."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Sua magia percorre distâncias impossíveis como se ignorasse o espaço entre você e o alvo."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-danca-das-sombras-dance-of-shadows-md",
+      "kind": "habilidade",
+      "name": "Dança das Sombras",
+      "originalName": "Dance of Shadows",
+      "icon": "🌒",
+      "level": 3,
+      "category": "Dano, Execução",
+      "action": "Ação",
+      "cost": "3 Pontos de Feitiçaria",
+      "source": "Kindred",
+      "damage": "3d10",
+      "range": "18 metros",
+      "tags": [
+        "Kindred",
+        "Necrótico",
+        "Execução"
+      ],
+      "sourcePath": "_Habilidades/🌒 Dança das Sombras (Dance of Shadows).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Dança das Sombras",
+        "nome_original": "Dance of Shadows",
+        "fonte": "Kindred",
+        "origem": "Kindred",
+        "arvore": "Ceifador",
+        "categoria": [
+          "Dano",
+          "Execução"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 2,
+        "acao": "Ação",
+        "custo": "3 Pontos de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "1 Turno",
+        "duracao": "1 Turno",
+        "alcance_m": 18,
+        "alcance_texto": "18 metros",
+        "usos": "Pontos de Feitiçaria",
+        "recarga": "Descanso Curto ou Longo",
+        "tipo_ataque": "",
+        "salvaguarda": "Sabedoria",
+        "dano_base": "3d10",
+        "dano_tipo": "Necrótico",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": true,
+        "icone": "🌒",
+        "status": "",
+        "requisitos": [
+          "Marca do Inevitável"
+        ],
+        "tags": [
+          "Kindred",
+          "Necrótico",
+          "Execução"
+        ],
+        "aliases": [
+          "Dance of Shadows"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "O alvo é envolto por energia crepuscular.\n\nNo final do seu próximo turno, a energia explode em dor espiritual."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "- Causa 3d10 de dano necrótico.\n- Se o alvo estiver marcado, sofre +1d10 de dano adicional.\n- Alvos marcados que falharem em um teste de Sabedoria CD 15 ficam Amedrontados até o final do próximo turno."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Sombras espectrais envolvem o alvo enquanto ecos do Caçador Eterno observam silenciosamente sua condenação."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-magia-aumentada-heightened-spell-md",
+      "kind": "habilidade",
+      "name": "Magia Aumentada",
+      "originalName": "Heightened Spell",
+      "icon": "🎯",
+      "level": 3,
+      "category": "Metamagia",
+      "action": "Passiva",
+      "cost": "3 Pontos de Feitiçaria",
+      "source": "Feiticeiro",
+      "range": "Alvo da Magia",
+      "tags": [
+        "Metamagia"
+      ],
+      "sourcePath": "_Habilidades/🎯 Magia Aumentada (Heightened Spell).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Magia Aumentada",
+        "nome_original": "Heightened Spell",
+        "fonte": "D&D 5e",
+        "origem": "Feiticeiro",
+        "arvore": "Metamagia",
+        "categoria": [
+          "Metamagia"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "3 Pontos de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Durante a Conjuração",
+        "duracao": "Instantânea",
+        "alcance_m": "",
+        "alcance_texto": "Alvo da Magia",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": false,
+        "equipada": true,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "🎯",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Metamagia"
+        ],
+        "aliases": [
+          "Heightened Spell"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Quando conjurar uma magia que exija um teste de resistência, você pode gastar 3 Pontos de Feitiçaria.\n\nEscolha uma criatura afetada pela magia.\n\nEssa criatura realiza o primeiro teste de resistência contra a magia com desvantagem."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Afeta apenas um alvo da magia."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Sua magia pressiona diretamente a vontade do alvo, tornando quase impossível resistir."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-cao-do-pressagio-sombrio-hound-of-ill-omen-md",
+      "kind": "habilidade",
+      "name": "Cão do Presságio Sombrio",
+      "originalName": "Hound of Ill Omen",
+      "icon": "🐺",
+      "level": 6,
+      "category": "Invocação, Controle",
+      "action": "Ação Bônus",
+      "cost": "3 Pontos de Feitiçaria",
+      "source": "Shadow Magic",
+      "damage": "1d8 + CAR",
+      "range": "9 metros",
+      "tags": [
+        "ShadowMagic",
+        "Invocação",
+        "Kindred"
+      ],
+      "sourcePath": "_Habilidades/🐺 Cão do Presságio Sombrio (Hound of Ill Omen).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Cão do Presságio Sombrio",
+        "nome_original": "Hound of Ill Omen",
+        "fonte": "D&D 5e",
+        "origem": "Shadow Magic",
+        "arvore": "Feitiçaria Sombria",
+        "categoria": [
+          "Invocação",
+          "Controle"
+        ],
+        "nivel_desbloqueio": 6,
+        "nivel_arvore": 2,
+        "acao": "Ação Bônus",
+        "custo": "3 Pontos de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Instantânea",
+        "duracao": "Até ser destruído",
+        "alcance_m": 9,
+        "alcance_texto": "9 metros",
+        "usos": "1 por descanso",
+        "recarga": "Descanso Curto ou Longo",
+        "tipo_ataque": "Mordida Sombria",
+        "salvaguarda": "",
+        "dano_base": "1d8 + CAR",
+        "dano_tipo": "Necrótico",
+        "ativa": true,
+        "desbloqueada": false,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": true,
+        "icone": "🐺",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "ShadowMagic",
+          "Invocação",
+          "Kindred"
+        ],
+        "aliases": [
+          "Hound of Ill Omen"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Invoca um espírito lupino formado por sombras e morte.\n\nO cão surge em um espaço desocupado a até 9 metros do conjurador e persegue o alvo marcado.\n\n### Estatísticas\n\n- CA: 13 + Modificador de Carisma\n- Vida: 5 × Nível do Feiticeiro\n- Velocidade: 12 metros\n- Resistência: Necrótico, Psíquico e dano não mágico\n- Imunidade: Encantado e Amedrontado\n- Visão no Escuro: 18 metros"
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Enquanto estiver ativo:\n\n- O alvo marcado sofre desvantagem em testes de resistência contra suas magias.\n- Se o cão eliminar o alvo, você recupera 1 Ponto de Feitiçaria.\n- O espírito desaparece ao ser derrotado ou ao final do combate."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "O cão manifesta-se como uma silhueta lupina feita de fumaça negra, com olhos brilhando como luas mortas observando sua próxima presa."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-salto-do-lobo-sombrio-shadow-wolf-s-leap-md",
+      "kind": "habilidade",
+      "name": "Salto do Lobo Sombrio",
+      "originalName": "Shadow Wolf's Leap",
+      "icon": "🐺",
+      "level": 3,
+      "category": "Invocação, Mobilidade",
+      "action": "Ação",
+      "cost": "2 Pontos de Feitiaria",
+      "source": "Kindred",
+      "damage": "1d8 + CAR",
+      "range": "9 metros",
+      "tags": [
+        "Kindred",
+        "Invocação",
+        "Mobilidade"
+      ],
+      "sourcePath": "_Habilidades/🐺 Salto do Lobo Sombrio (Shadow Wolf’s Leap).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Salto do Lobo Sombrio",
+        "nome_original": "Shadow Wolf's Leap",
+        "fonte": "Kindred",
+        "origem": "Kindred",
+        "arvore": "Ceifador",
+        "categoria": [
+          "Invocação",
+          "Mobilidade"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 1,
+        "acao": "Ação",
+        "custo": "2 Pontos de Feitiaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "1 Ação",
+        "duracao": "1 Minuto",
+        "alcance_m": 9,
+        "alcance_texto": "9 metros",
+        "usos": "Pontos de Feitiçaria",
+        "recarga": "Descanso Curto ou Longo",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "1d8 + CAR",
+        "dano_tipo": "Necrótico",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": true,
+        "icone": "🐺",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Kindred",
+          "Invocação",
+          "Mobilidade"
+        ],
+        "aliases": [
+          "Shadow Wolf's Leap"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Conjura um Lobo Espiritual Etéreo em uma área de 3 metros de raio.\n\n- O lobo ataca automaticamente criaturas hostis próximas.\n- Você pode usar sua reação para se teleportar até o lobo quando uma criatura entrar em sua área."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "- O ataque causa 1d8 + Modificador de Carisma de dano necrótico.\n- O dano reduz temporariamente a vida máxima do alvo.\n- O lobo desaparece caso você fique incapacitado.\n- Pode ser aprimorado para causar dano radiante."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "O espírito do lobo surge das sombras e patrulha silenciosamente o campo de batalha, aguardando o momento exato para conduzir o caçador até sua presa."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-olhos-do-cacador-eterno-eyes-of-the-dark-md",
+      "kind": "habilidade",
+      "name": "Olhos do Caçador Eterno",
+      "originalName": "Eyes of the Dark",
+      "icon": "👁️",
+      "level": 1,
+      "category": "Aprimoramento, Visão",
+      "action": "Ação",
+      "cost": "2 Pontos de Feitiçaria",
+      "source": "Shadow Magic",
+      "range": "18 metros",
+      "tags": [
+        "Shadow Magic",
+        "Darkness",
+        "Kindred"
+      ],
+      "sourcePath": "_Habilidades/👁️‍🗨️ Olhos do Caçador Eterno (Eyes of the Dark).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Olhos do Caçador Eterno",
+        "nome_original": "Eyes of the Dark",
+        "fonte": "D&D 5e",
+        "origem": "Shadow Magic",
+        "arvore": "Feitiçaria Sombria",
+        "categoria": [
+          "Aprimoramento",
+          "Visão"
+        ],
+        "nivel_desbloqueio": 1,
+        "nivel_arvore": 1,
+        "acao": "Ação",
+        "custo": "2 Pontos de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Instantânea",
+        "duracao": "Instantânea",
+        "alcance_m": 18,
+        "alcance_texto": "18 metros",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "Descanso Curto ou Longo",
+        "tipo_ataque": "",
+        "salvaguarda": "Sabedoria",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": true,
+        "icone": "👁️",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Shadow Magic",
+          "Darkness",
+          "Kindred"
+        ],
+        "aliases": [
+          "Eyes of the Dark"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Permite conjurar Escuridão Profunda gastando 2 Pontos de Feitiçaria em vez de um espaço de magia.\n\nEnquanto estiver dentro da escuridão criada desta forma:\n\n- Enxerga perfeitamente através dela.\n- Inimigos têm desvantagem para atacá-lo sem visão especial.\n- Recebe +2 em ataques e jogadas de feitiço contra criaturas cegadas pela escuridão."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Criaturas que iniciem o turno na área devem realizar um teste de Sabedoria (CD 14).\n\nEm caso de falha ficam Amedrontadas até o fim do próximo turno."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "As sombras parecem reagir à presença do feiticeiro, pulsando em sintonia com seu coração."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-darkvision-md",
+      "kind": "caracteristica",
+      "name": "Visão no Escuro",
+      "originalName": "Darkvision",
+      "icon": "👁️",
+      "level": 1,
+      "category": "Passiva, Sentidos",
+      "action": "Passiva",
+      "cost": "Nenhum",
+      "source": "Racial",
+      "range": "18 metros",
+      "tags": [
+        "Racial",
+        "Visão",
+        "Passiva"
+      ],
+      "sourcePath": "_Habilidades/👁️‍🗨️Darkvision.md",
+      "frontmatter": {
+        "nome": "Visão no Escuro",
+        "nome_original": "Darkvision",
+        "fonte": "Linhagem",
+        "origem": "Racial",
+        "arvore": "Traços Raciais",
+        "categoria": [
+          "Passiva",
+          "Sentidos"
+        ],
+        "nivel_desbloqueio": 1,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "Nenhum",
+        "recurso": "",
+        "execucao": "Instantânea",
+        "duracao": "Permanente",
+        "alcance_m": 18,
+        "alcance_texto": "18 metros",
+        "usos": "Ilimitado",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "👁️",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Racial",
+          "Visão",
+          "Passiva"
+        ],
+        "aliases": [
+          "Darkvision"
+        ],
+        "tipo": "caracteristica"
+      },
+      "sections": [
+        {
+          "title": "Efeitos",
+          "content": "Você enxerga na penumbra como se fosse luz plena e na escuridão como se fosse penumbra.\n\nSeu alcance de visão no escuro é de 18 metros."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "- Funciona apenas em tons de cinza.\n- Não permite enxergar através de escuridão mágica."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Seus olhos parecem acostumados à ausência de luz, percebendo detalhes ocultos onde outros enxergam apenas trevas."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-magia-duplicada-twinned-spell-md",
+      "kind": "habilidade",
+      "name": "Magia Duplicada",
+      "originalName": "Twinned Spell",
+      "icon": "👥",
+      "level": 3,
+      "category": "Metamagia",
+      "action": "Passiva",
+      "cost": "Nível da Magia (1 para Truques)",
+      "source": "Feiticeiro",
+      "range": "Magia Conjurada",
+      "tags": [
+        "Metamagia"
+      ],
+      "sourcePath": "_Habilidades/👥 Magia Duplicada (Twinned Spell).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Magia Duplicada",
+        "nome_original": "Twinned Spell",
+        "fonte": "D&D 5e",
+        "origem": "Feiticeiro",
+        "arvore": "Metamagia",
+        "categoria": [
+          "Metamagia"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "Nível da Magia (1 para Truques)",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Durante a Conjuração",
+        "duracao": "Instantânea",
+        "alcance_m": "",
+        "alcance_texto": "Magia Conjurada",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": true,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "👥",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Metamagia"
+        ],
+        "aliases": [
+          "Twinned Spell"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "[Resumo igual ao template]"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Quando conjurar uma magia que tenha apenas um alvo e não possua alcance pessoal, você pode gastar Pontos de Feitiçaria para escolher um segundo alvo válido.\n\nO custo é igual ao nível da magia.\n\nTruques custam 1 Ponto de Feitiçaria."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Ambos os alvos são afetados pela mesma conjuração."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A magia se divide como um reflexo perfeito da mesma intenção arcana."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-deathless-nature-md",
+      "kind": "habilidade",
+      "name": "Natureza Sem Morte",
+      "originalName": "Deathless Nature",
+      "icon": "💀",
+      "level": 1,
+      "category": "Passiva, Resistência",
+      "action": "Passiva",
+      "cost": "Nenhum",
+      "source": "Racial",
+      "range": "Eu mesmo",
+      "tags": [
+        "Racial",
+        "Morto-vivo",
+        "Resistência"
+      ],
+      "sourcePath": "_Habilidades/💀 Deathless Nature.md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Natureza Sem Morte",
+        "nome_original": "Deathless Nature",
+        "fonte": "Linhagem",
+        "origem": "Racial",
+        "arvore": "Traços Raciais",
+        "categoria": [
+          "Passiva",
+          "Resistência"
+        ],
+        "nivel_desbloqueio": 1,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "Nenhum",
+        "recurso": "",
+        "execucao": "Instantânea",
+        "duracao": "Permanente",
+        "alcance_m": 0,
+        "alcance_texto": "Eu mesmo",
+        "usos": "Ilimitado",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "💀",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Racial",
+          "Morto-vivo",
+          "Resistência"
+        ],
+        "aliases": [
+          "Deathless Nature"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Sua natureza transcende as necessidades básicas dos vivos.\n\n- Vantagem em testes de resistência contra doenças.\n- Vantagem em testes de resistência contra ser envenenado.\n- Resistência a dano de veneno.\n- Não precisa comer.\n- Não precisa beber.\n- Não precisa respirar.\n\nAlém disso:\n\n- Não precisa dormir.\n- Magias não podem colocá-lo para dormir.\n- Pode completar um descanso longo em apenas 4 horas de inatividade consciente."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Durante o período de descanso você permanece consciente do ambiente ao redor, mesmo permanecendo imóvel."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Seu corpo mantém apenas a aparência da vida. Necessidades mortais já não exercem domínio sobre você, e o descanso se parece mais com uma vigília silenciosa do que com o sono de uma criatura viva."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-magia-potencializada-empowered-spell-md",
+      "kind": "habilidade",
+      "name": "Magia Potencializada",
+      "originalName": "Empowered Spell",
+      "icon": "💥",
+      "level": 3,
+      "category": "Metamagia",
+      "action": "Passiva",
+      "cost": "1 Ponto de Feitiçaria",
+      "source": "Feiticeiro",
+      "range": "Magia Conjurada",
+      "tags": [
+        "Metamagia"
+      ],
+      "sourcePath": "_Habilidades/💥 Magia Potencializada (Empowered Spell).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Magia Potencializada",
+        "nome_original": "Empowered Spell",
+        "fonte": "D&D 5e",
+        "origem": "Feiticeiro",
+        "arvore": "Metamagia",
+        "categoria": [
+          "Metamagia"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "1 Ponto de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Após rolar dano",
+        "duracao": "Instantânea",
+        "alcance_m": "",
+        "alcance_texto": "Magia Conjurada",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": false,
+        "equipada": true,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "💥",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Metamagia"
+        ],
+        "aliases": [
+          "Empowered Spell"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "[Resumo igual ao template]"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Após rolar o dano de uma magia, você pode rerrolar um número de dados igual ao seu modificador de Carisma (mínimo 1).\n\nOs novos resultados devem ser utilizados."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Pode ser utilizada junto com outra Metamagia na mesma conjuração."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Você força a magia a atingir seu potencial máximo."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-refugio-do-cordeiro-lamb-s-respite-md",
+      "kind": "habilidade",
+      "name": "Refúgio do Cordeiro",
+      "originalName": "Lamb's Respite",
+      "icon": "🕊️",
+      "level": 6,
+      "category": "Suporte, Proteção",
+      "action": "Ação",
+      "cost": "5 Pontos de Feitiçaria",
+      "source": "Kindred",
+      "range": "18 metros",
+      "tags": [
+        "Kindred",
+        "Suporte",
+        "Cura"
+      ],
+      "sourcePath": "_Habilidades/🕊️ Refúgio do Cordeiro (Lamb’s Respite).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Refúgio do Cordeiro",
+        "nome_original": "Lamb's Respite",
+        "fonte": "Kindred",
+        "origem": "Kindred",
+        "arvore": "Ceifador",
+        "categoria": [
+          "Suporte",
+          "Proteção"
+        ],
+        "nivel_desbloqueio": 6,
+        "nivel_arvore": 2,
+        "acao": "Ação",
+        "custo": "5 Pontos de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Instantânea",
+        "duracao": "1 Turno",
+        "alcance_m": 18,
+        "alcance_texto": "18 metros",
+        "usos": "1 por Descanso",
+        "recarga": "Descanso Longo",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": true,
+        "icone": "🕊️",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Kindred",
+          "Suporte",
+          "Cura"
+        ],
+        "aliases": [
+          "Lamb's Respite"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Cria uma zona espiritual imbuída pela essência do Cordeiro.\n\nEnquanto estiver dentro dela:\n\n- Nenhuma criatura pode morrer.\n- Criaturas reduzidas a 0 PV permanecem com 1 PV.\n\nQuando a zona termina:\n\n- Todas as criaturas dentro dela recuperam 2d8 + Modificador de Carisma pontos de vida."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "- Efeitos de necromancia ficam suspensos dentro da área.\n- A zona emite uma luz azulada suave.\n- Criaturas mortas fora da área não são afetadas."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "O mundo parece desacelerar dentro do refúgio enquanto uma presença serena impede que a morte reclame novas almas."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-heart-of-darkness-md",
+      "kind": "caracteristica",
+      "name": "Coração das Trevas",
+      "originalName": "Heart of Darkness",
+      "icon": "🖤",
+      "level": 1,
+      "category": "Social, Passiva",
+      "action": "Passiva",
+      "cost": "Nenhum",
+      "source": "Antecedente",
+      "range": "Social",
+      "tags": [
+        "Antecedente",
+        "Social",
+        "Assombrado"
+      ],
+      "sourcePath": "_Habilidades/🖤Heart of Darkness.md",
+      "frontmatter": {
+        "tipo": "caracteristica",
+        "nome": "Coração das Trevas",
+        "nome_original": "Heart of Darkness",
+        "fonte": "Curse of Strahd",
+        "origem": "Antecedente",
+        "arvore": "Assombrado",
+        "categoria": [
+          "Social",
+          "Passiva"
+        ],
+        "nivel_desbloqueio": 1,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "Nenhum",
+        "recurso": "",
+        "execucao": "Permanente",
+        "duracao": "Permanente",
+        "alcance_m": "",
+        "alcance_texto": "Social",
+        "usos": "Ilimitado",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "🖤",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Antecedente",
+          "Social",
+          "Assombrado"
+        ],
+        "aliases": [
+          "Heart of Darkness"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Efeitos",
+          "content": "As pessoas percebem que você sofreu algo terrível em seu passado.\n\nMesmo sem conhecer sua história, elas reconhecem a dor em seus olhos e em sua postura.\n\nComo consequência:\n\n- Pessoas comuns tendem a confiar em você.\n- Estranhos oferecem ajuda quando possível.\n- Você consegue abrigo temporário com maior facilidade.\n- Pode receber comida e assistência básica.\n- Muitas pessoas demonstram compaixão, mesmo quando sentem medo ou desconforto em sua presença."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "Essa característica não afeta criaturas hostis, autoridades corruptas ou indivíduos sem empatia.\n\nO benefício depende da interpretação do Mestre e das circunstâncias sociais da cena."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Seu olhar carrega marcas de horrores que poucos conseguiriam suportar.\n\nAs pessoas enxergam alguém que já enfrentou a escuridão e, por isso, sentem o impulso de oferecer ajuda, mesmo sem compreender exatamente o motivo."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-magia-cuidadosa-careful-spell-md",
+      "kind": "habilidade",
+      "name": "Magia Cuidadosa",
+      "originalName": "Careful Spell",
+      "icon": "🛡️",
+      "level": 3,
+      "category": "Metamagia",
+      "action": "Passiva",
+      "cost": "1 Ponto de Feitiçaria",
+      "source": "Feiticeiro",
+      "range": "Magia Conjurada",
+      "tags": [
+        "Metamagia"
+      ],
+      "sourcePath": "_Habilidades/🛡️ Magia Cuidadosa (Careful Spell).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Magia Cuidadosa",
+        "nome_original": "Careful Spell",
+        "fonte": "D&D 5e",
+        "origem": "Feiticeiro",
+        "arvore": "Metamagia",
+        "categoria": [
+          "Metamagia"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "1 Ponto de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Durante a Conjuração",
+        "duracao": "Instantânea",
+        "alcance_m": "",
+        "alcance_texto": "Magia Conjurada",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": false,
+        "equipada": true,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "🛡️",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Metamagia"
+        ],
+        "aliases": [
+          "Careful Spell"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Quando conjurar uma magia que exija testes de resistência, você pode proteger algumas criaturas dos efeitos da magia.\n\nEscolha um número de criaturas igual ao seu modificador de Carisma (mínimo 1).\n\nAs criaturas escolhidas passam automaticamente no teste de resistência da magia."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "As criaturas ainda podem sofrer efeitos em caso de sucesso parcial, conforme a magia."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Sua magia parece reconhecer aliados e contorná-los instintivamente."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-magia-sutil-subtle-spell-md",
+      "kind": "habilidade",
+      "name": "Magia Sutil",
+      "originalName": "Subtle Spell",
+      "icon": "🤫",
+      "level": 3,
+      "category": "Metamagia",
+      "action": "Passiva",
+      "cost": "1 Ponto de Feitiçaria",
+      "source": "Feiticeiro",
+      "range": "Magia Conjurada",
+      "tags": [
+        "Metamagia"
+      ],
+      "sourcePath": "_Habilidades/🤫 Magia Sutil (Subtle Spell).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Magia Sutil",
+        "nome_original": "Subtle Spell",
+        "fonte": "D&D 5e",
+        "origem": "Feiticeiro",
+        "arvore": "Metamagia",
+        "categoria": [
+          "Metamagia"
+        ],
+        "nivel_desbloqueio": 3,
+        "nivel_arvore": 1,
+        "acao": "Passiva",
+        "custo": "1 Ponto de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Durante a Conjuração",
+        "duracao": "Instantânea",
+        "alcance_m": "",
+        "alcance_texto": "Magia Conjurada",
+        "usos": "Enquanto possuir recursos",
+        "recarga": "",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": false,
+        "equipada": true,
+        "favorita": false,
+        "homebrew": false,
+        "icone": "🤫",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Metamagia"
+        ],
+        "aliases": [
+          "Subtle Spell"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "[Resumo igual ao template]"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Ao conjurar uma magia, você pode remover todos os componentes verbais e somáticos da conjuração."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "A magia pode ser lançada sem palavras ou gestos perceptíveis."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A magia surge apenas pela força da sua vontade, sem qualquer manifestação externa."
+        }
+      ]
+    },
+    {
+      "id": "habilidades-marca-do-inevitavel-mark-of-the-inevitable-md",
+      "kind": "habilidade",
+      "name": "Marca do Inevitável",
+      "originalName": "Mark of the Inevitable",
+      "icon": "🩶",
+      "level": 1,
+      "category": "Marca, Caçada",
+      "action": "Ação Bônus",
+      "cost": "1 Ponto de Feitiçaria",
+      "source": "Kindred",
+      "damage": "Variável",
+      "range": "18 metros",
+      "tags": [
+        "Kindred",
+        "Marca",
+        "Caçada"
+      ],
+      "sourcePath": "_Habilidades/🩶 Marca do Inevitável (Mark of the Inevitable).md",
+      "frontmatter": {
+        "tipo": "habilidade",
+        "nome": "Marca do Inevitável",
+        "nome_original": "Mark of the Inevitable",
+        "fonte": "Kindred",
+        "origem": "Kindred",
+        "arvore": "Ceifador",
+        "categoria": [
+          "Marca",
+          "Caçada"
+        ],
+        "nivel_desbloqueio": 1,
+        "nivel_arvore": 1,
+        "acao": "Ação Bônus",
+        "custo": "1 Ponto de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "Instantânea",
+        "duracao": "Até o alvo morrer ou a marca ser transferida",
+        "alcance_m": 18,
+        "alcance_texto": "18 metros",
+        "usos": "Ilimitado",
+        "recarga": "Descanso Curto ou Longo",
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "Variável",
+        "dano_tipo": "",
+        "ativa": true,
+        "desbloqueada": true,
+        "equipada": false,
+        "favorita": false,
+        "homebrew": true,
+        "icone": "🩶",
+        "status": "",
+        "requisitos": [],
+        "tags": [
+          "Kindred",
+          "Marca",
+          "Caçada"
+        ],
+        "aliases": [
+          "Mark of the Inevitable"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Origem:** \n>\n> **Árvore:** \n>\n> **Ação:** \n>\n> **Custo:** \n>\n> **Recurso:** \n>\n> **Duração:** \n>\n> **Alcance:** \n>\n> **Recarga:** \n>\n> **Dano:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Escolha uma criatura visível a até 18 metros. Ela é marcada pelo Caçador Eterno até morrer ou até você escolher outro alvo.\n\nEnquanto o alvo estiver marcado:\n\n- Você recebe +2 em jogadas de ataque contra ele.\n- Você recebe +2 em ataques de magia que tenham o alvo como foco.\n- Quando o alvo morre, você recupera 1 Ponto de Feitiçaria.\n- Você recebe +1 na CD de resistência de suas magias até o próximo descanso curto."
+        },
+        {
+          "title": "Efeitos Adicionais",
+          "content": "- Apenas um alvo pode estar marcado por vez.\n- Criaturas marcadas sentem uma presença sobrenatural observando-as.\n\nSe o alvo marcado for morto por você:\n\n- A Caçada dos Kindred é concluída.\n- Você pode aprender permanentemente uma magia conhecida pelo alvo.\n- A magia aprendida ocupa permanentemente um espaço de conhecimento.\n- Cada magia obtida dessa forma cobra um custo espiritual determinado pelo Mestre."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A alma da presa é parcialmente absorvida ao morrer.\n\nCom o tempo, memórias, vozes e instintos de criaturas caçadas podem surgir em sonhos ou momentos de distração."
+        }
+      ]
+    },
+    {
+      "id": "itens-colar-de-espelho-md",
+      "kind": "item",
+      "name": "Reflexos",
+      "icon": "💎",
+      "category": "acessorio",
+      "tags": [
+        "ilusao",
+        "defesa",
+        "colar",
+        "magia"
+      ],
+      "sourcePath": "_Itens/Colar de Espelho.md",
+      "frontmatter": {
+        "tipo": "item",
+        "nome": "Reflexos",
+        "categoria": "acessorio",
+        "subcategoria": "colar",
+        "raridade": "incomum",
+        "origem": "",
+        "conjunto": "",
+        "peso": "",
+        "valor": "",
+        "equipado": true,
+        "sintonizado": false,
+        "consumivel": false,
+        "quantidade": 1,
+        "cargas": 1,
+        "cargas_maximas": 1,
+        "recarga": "descanso_longo",
+        "efeito_tipo": "magia_concedida",
+        "habilidade_concedida": "",
+        "magia_concedida": "[[_Magias/Reflexos]]",
+        "requisitos": [],
+        "homebrew": false,
+        "icone": "💎",
+        "image": "[[Reflexo.png]]",
+        "status": "",
+        "tags": [
+          "ilusao",
+          "defesa",
+          "colar",
+          "magia"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Aparência",
+          "content": "Um colar de prata simples com um pingente de cristal leitoso.\n\nQuando o portador se move, o reflexo no cristal parece se atrasar levemente, criando a sensação de múltiplas imagens sobrepostas."
+        },
+        {
+          "title": "Efeitos",
+          "content": "Enquanto estiver usando o colar, você pode conjurar a magia **Reflexos** sem gastar espaços de magia.\n\n- 1 uso por descanso longo.\n    \n- Requer estar equipado."
+        },
+        {
+          "title": "Habilidades Concedidas",
+          "content": "### Reflexos\n\nTrês duplicatas ilusórias surgem ao redor do conjurador.\n\nCada ataque realizado contra você possui chance de atingir uma duplicata.\n\n- 3 duplicatas → 6+\n    \n- 2 duplicatas → 8+\n    \n- 1 duplicata → 11+\n    \n\nCA da duplicata:\n\n10 + Modificador de Destreza\n\nA magia termina quando todas as duplicatas forem destruídas."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "O cristal parece refletir possibilidades alternativas do portador, como se pequenas versões deslocadas de sua existência estivessem tentando ocupar o mesmo espaço."
+        }
+      ]
+    },
+    {
+      "id": "magias-invisibilidade-maior-md",
+      "kind": "magia",
+      "name": "Invisibilidade Maior",
+      "originalName": "Greater Invisibility",
+      "level": 4,
+      "category": "Ilusão",
+      "action": "Principal",
+      "cost": "1 Espaço de Magia Nível 4",
+      "source": "Arcana",
+      "range": "Toque",
+      "tags": [
+        "Magia",
+        "Ilusão",
+        "Utilidade",
+        "Furtividade"
+      ],
+      "sourcePath": "_Magias/Invisibilidade Maior.md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Invisibilidade Maior",
+        "nome_original": "Greater Invisibility",
+        "nivel": 4,
+        "circulo": "4",
+        "escola": "Ilusão",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "1 Espaço de Magia Nível 4",
+        "recurso": "Espaços de Magia",
+        "execucao": "1 Ação",
+        "duracao": "Até 1 minuto",
+        "alcance_m": 0,
+        "alcance_texto": "Toque",
+        "concentracao": true,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "",
+        "preparada": false,
+        "conhecida": false,
+        "favorita": false,
+        "homebrew": false,
+        "versao_kindred": false,
+        "status": "",
+        "tags": [
+          "Magia",
+          "Ilusão",
+          "Utilidade",
+          "Furtividade"
+        ],
+        "aliases": [
+          "Greater Invisibility"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:** \n> **Nível:** \n> **Círculo:** \n> **Escola:** \n> **Classe:** \n> **Ação:** \n> **Execução:** \n> **Duração:** \n> **Alcance:** \n> **Custo:** \n> **Dano base:** \n> **Concentração:** \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Você ou uma criatura tocada torna-se invisível durante toda a duração da magia.\n\nTudo que o alvo estiver vestindo ou carregando também se torna invisível enquanto permanecer em sua posse.\n\nDiferente de Invisibilidade, esta magia não termina quando o alvo:\n\n- Ataca.\n- Conjura magias.\n- Realiza ações ofensivas.\n\nEnquanto a magia durar:\n\n- O alvo é considerado invisível para efeitos visuais.\n- Ataques realizados pelo alvo possuem vantagem.\n- Ataques contra o alvo possuem desvantagem.\n\nA magia termina caso a concentração seja perdida ou ao final da duração."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Não possui escalonamento."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "Não possui efeitos adicionais."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "O alvo parece ser apagado da realidade, deixando apenas pequenas distorções no ar.\n\nPara aqueles sensíveis ao sobrenatural, a invisibilidade lembra uma alma caminhando entre o mundo dos vivos e dos mortos sem pertencer completamente a nenhum dos dois."
+        }
+      ]
+    },
+    {
+      "id": "magias-reflexos-md",
+      "kind": "magia",
+      "name": "Reflexos",
+      "originalName": "Mirror Image",
+      "level": 2,
+      "category": "Ilusão",
+      "action": "Principal",
+      "source": "item",
+      "range": "Eu",
+      "tags": [
+        "colar",
+        "ilusao"
+      ],
+      "sourcePath": "_Magias/Reflexos.md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Reflexos",
+        "nome_original": "Mirror Image",
+        "nivel": 2,
+        "circulo": 2,
+        "escola": "Ilusão",
+        "origem": "item",
+        "classe": "",
+        "acao": "Principal",
+        "custo": "",
+        "recurso": "item",
+        "execucao": "Bonus",
+        "duracao": "1 Turno",
+        "alcance_m": 0,
+        "alcance_texto": "Eu",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [],
+        "tipo_ataque": "ilusao",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "",
+        "preparada": false,
+        "conhecida": false,
+        "favorita": false,
+        "homebrew": false,
+        "versao_kindred": false,
+        "status": "",
+        "tags": [
+          "colar",
+          "ilusao"
+        ],
+        "aliases": [
+          "Mirror",
+          "Image",
+          "Reflexo"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido  \n> **Tipo:**   \n> **Nível:**   \n> **Círculo:**   \n> **Escola:**   \n> **Classe:**   \n> **Ação:**   \n> **Execução:**   \n> **Duração:**   \n> **Alcance:**   \n> **Custo:**   \n> **Dano base:**   \n> **Concentração:**   \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Três duplicatas ilusórias surgem ao redor do conjurador.\n\nCada ataque realizado contra você possui chance de atingir uma duplicata.\n\n- 3 duplicatas → 6+\n    \n- 2 duplicatas → 8+\n    \n- 1 duplicata → 11+\n    \n\nCA da duplicata:\n\n10 + Modificador de Destreza\n\nA magia termina quando todas as duplicatas forem destruídas.\nUma criatura não pode ser afetada por essa magia se não puder enxergar, se utilizar sentidos além da visão (como percepção às cegas) ou se puder perceber ilusões como falsas (como com visão verdadeira)."
+        }
+      ]
+    },
+    {
+      "id": "magias-onda-trovejante-thunderwave-md",
+      "kind": "magia",
+      "name": "Onda Trovejante",
+      "originalName": "Thunderwave",
+      "level": 1,
+      "category": "Evocação",
+      "action": "Principal",
+      "cost": "1 Espaço de Magia Nível 1",
+      "source": "Feiticeiro",
+      "damage": "2d8",
+      "range": "Si mesmo (Cubo de 4,5 metros)",
+      "tags": [
+        "Magia",
+        "Evocação",
+        "Área",
+        "Trovão"
+      ],
+      "sourcePath": "_Magias/⚡ Onda Trovejante (Thunderwave).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Onda Trovejante",
+        "nome_original": "Thunderwave",
+        "nivel": 1,
+        "circulo": 1,
+        "escola": "Evocação",
+        "origem": [
+          "Feiticeiro"
+        ],
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "1 Espaço de Magia Nível 1",
+        "recurso": "Espaços de Magia",
+        "execucao": "1 Ação",
+        "duracao": "Instantânea",
+        "alcance_m": 4.5,
+        "alcance_texto": "Si mesmo (Cubo de 4,5 metros)",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "Constituição",
+        "dano_base": "2d8",
+        "dano_tipo": "Trovão",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "+1d8 por nível acima do 1º",
+        "preparada": false,
+        "conhecida": true,
+        "favorita": false,
+        "homebrew": false,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Magia",
+          "Evocação",
+          "Área",
+          "Trovão"
+        ],
+        "aliases": [
+          "Thunderwave"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:** \n> **Nível:** \n> **Círculo:** \n> **Escola:** \n> **Classe:** \n> **Ação:** \n> **Execução:** \n> **Duração:** \n> **Alcance:** \n> **Custo:** \n> **Dano base:** \n> **Concentração:** \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Uma onda de força trovejante explode a partir de você, preenchendo um cubo de 4,5 metros.\n\nCada criatura na área deve realizar um teste de resistência de Constituição.\n\n- Falha: sofre 2d8 de dano trovejante e é empurrada 3 metros.\n- Sucesso: sofre metade do dano e não é empurrada.\n\nObjetos não fixos também são empurrados 3 metros.\n\nA explosão pode ser ouvida a até 90 metros de distância."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Ao conjurar usando um espaço de magia de 2º nível ou superior, o dano aumenta em 1d8 para cada nível acima do 1º."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "- A explosão assume a forma de um uivo ancestral da Caçada.\n- Criaturas marcadas pela Marca do Inevitável enxergam uma silhueta lupina por um breve instante.\n- A pressão espiritual parece expulsar os inimigos do caminho do caçador."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "O som da explosão ecoa como dezenas de passos perseguindo uma presa.\n\nPor alguns instantes, o ar parece carregado por ecos de almas inquietas."
+        }
+      ]
+    },
+    {
+      "id": "magias-raio-do-caos-chaos-bolt-md",
+      "kind": "magia",
+      "name": "Raio do Caos",
+      "originalName": "Chaos Bolt",
+      "level": 1,
+      "category": "Evocação",
+      "action": "Principal",
+      "cost": "slot_1",
+      "source": "Arcana",
+      "damage": "2d8 + 1d6",
+      "range": "36 m",
+      "tags": [
+        "magia",
+        "magia/nivel-1",
+        "magia/feiticeiro",
+        "magia/dano",
+        "umbrael",
+        "kindred"
+      ],
+      "sourcePath": "_Magias/⚡ Raio do Caos (Chaos Bolt).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Raio do Caos",
+        "nome_original": "Chaos Bolt",
+        "nivel": 1,
+        "circulo": "1",
+        "escola": "Evocação",
+        "origem": "Arcana",
+        "classe": [
+          "feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "slot_1",
+        "recurso": "espaco_magia",
+        "execucao": "1 acao",
+        "duracao": "instantanea",
+        "alcance_m": 36,
+        "alcance_texto": "36 m",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [],
+        "tipo_ataque": "ataque_magia_distancia",
+        "salvaguarda": "nenhum",
+        "dano_base": "2d8 + 1d6",
+        "dano_tipo": "caotico",
+        "dano_opcoes": [
+          "acido",
+          "gelo",
+          "fogo",
+          "forca",
+          "relampago",
+          "veneno",
+          "psiquico",
+          "trovao"
+        ],
+        "escala_nivel_superior": "+1d6 por nivel acima do 1",
+        "preparada": true,
+        "conhecida": true,
+        "favorita": true,
+        "homebrew": true,
+        "versao_kindred": true,
+        "status": "ativa",
+        "tags": [
+          "magia",
+          "magia/nivel-1",
+          "magia/feiticeiro",
+          "magia/dano",
+          "umbrael",
+          "kindred"
+        ],
+        "aliases": [
+          "Chaos Bolt",
+          "Raio do Caos"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:**   \n> **Nível:** 1  \n> **Ação:** Ação  \n> **Execução:** 1 ação  \n> **Duração:** Instantânea  \n> **Alcance:** 36 m \n> **Custo:** Espaço de magia de 1º nível  \n> **Dano base:** `2d8 + 1d6`  \n> **Concentração:** Não  \n> **Ritual:** Não"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Você conjura um **raio oscilante de energia caótica e instável**, feito de pura essência espiritual.  \nO feitiço **serpenteia pelo ar como uma alma indecisa**, vibrando entre cores e tons de energia elemental.\n\nFaça uma **jogada de ataque à distância com magia** contra uma criatura à sua escolha dentro do alcance.\n\n- **Dano no acerto:** `2d8 + 1d6` de energia caótica.\n- Escolha **um dos d8s rolados**: o número nele define o **tipo de dano** do ataque, conforme a tabela abaixo.\n\n| d8 | Tipo de dano |\n|---:|---|\n| 1 | Ácido |\n| 2 | Gelo |\n| 3 | Fogo |\n| 4 | Força |\n| 5 | Relâmpago |\n| 6 | Veneno |\n| 7 | Psíquico |\n| 8 | Trovão |"
+        },
+        {
+          "title": "Salto Caótico",
+          "content": "Se **ambos os d8s rolarem o mesmo número**, a energia enlouquecida **salta** do alvo atingido para **outra criatura à sua escolha** dentro de **30 pés (≈ 9 m)** do alvo original.\n\n- Faça **uma nova jogada de ataque** contra o novo alvo.\n- Role novamente o dano e determine o novo tipo de energia.\n- O raio pode **continuar saltando** enquanto houver coincidências nos d8s.\n- Uma mesma criatura **não pode ser atingida duas vezes** pela mesma conjuração."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Quando conjurada usando um espaço de magia de **2º nível ou superior**, cada alvo recebe **+1d6 de dano adicional** do tipo determinado para cada nível acima do 1º.\n\nExemplo:\n\n- Espaço de 2º nível → `2d8 + 2d6`\n- Espaço de 3º nível → `2d8 + 3d6`  \n  _(e assim por diante)_"
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "- Se o alvo estiver **marcado pela Marca do Inevitável**, o raio ganha um **brilho branco-cinzelado**, convertendo **1d6 do dano total em necrótico**.\n- A cada salto de energia, **vozes distantes** ecoam, como se almas presas gritassem ao serem arrastadas pelo poder caótico.\n- Caso o raio mate um inimigo, você sente **um fragmento da alma absorvido** — uma centelha que ecoa na sua magia, **reduzindo o custo da próxima magia em 1 Sorcery Point** (mínimo 1)."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "- O **Raio do Caos** não é apenas energia bruta, mas um reflexo da **natureza imprevisível do destino** — cada salto é uma escolha feita pela própria morte.\n- Ao conjurar, o ar ao redor vibra como se várias realidades se chocassem brevemente.\n- Aos olhos de quem observa, o feitiço parece **um uivo de energia viva**, dançando entre luz e sombra."
+        }
+      ]
+    },
+    {
+      "id": "magias-raio-de-gelo-ray-of-frost-md",
+      "kind": "magia",
+      "name": "Raio de Gelo",
+      "originalName": "Ray of Frost",
+      "level": 0,
+      "category": "Evocação",
+      "action": "Principal",
+      "cost": "Nenhum",
+      "source": "Arcana",
+      "damage": "1d8",
+      "range": "18 metros",
+      "tags": [
+        "Truque",
+        "Evocação",
+        "Gelo"
+      ],
+      "sourcePath": "_Magias/❄️ Raio de Gelo (Ray of Frost).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Raio de Gelo",
+        "nome_original": "Ray of Frost",
+        "nivel": "0",
+        "circulo": "Truque",
+        "escola": "Evocação",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "Nenhum",
+        "recurso": "Truque",
+        "execucao": "1 Ação",
+        "duracao": "Instantânea",
+        "alcance_m": 18,
+        "alcance_texto": "18 metros",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático"
+        ],
+        "tipo_ataque": "Ataque de Magia à Distância",
+        "salvaguarda": "",
+        "dano_base": "1d8",
+        "dano_tipo": "Gelo",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "2d8 (5º), 3d8 (11º), 4d8 (17º)",
+        "preparada": false,
+        "conhecida": true,
+        "favorita": true,
+        "homebrew": false,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Truque",
+          "Evocação",
+          "Gelo"
+        ],
+        "aliases": [
+          "Ray of Frost"
+        ],
+        "desbloqueada": true
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:** \n> **Nível:** \n> **Círculo:** \n> **Escola:** \n> **Classe:** \n> **Ação:** \n> **Execução:** \n> **Duração:** \n> **Alcance:** \n> **Custo:** \n> **Dano base:** \n> **Concentração:** \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Dispare um raio gélido contra uma criatura.\n\nFaça uma jogada de ataque à distância com magia.\n\n- Acerto: 1d8 de dano de gelo.\n- O deslocamento do alvo é reduzido em 3 metros até o início do seu próximo turno."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "- 5º nível: 2d8\n- 11º nível: 3d8\n- 17º nível: 4d8"
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "- O gelo assume a aparência de luar congelado.\n- Alvos marcados exibem veias prateadas sob a pele."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "O frio parece desacelerar não apenas o corpo, mas o próprio destino da vítima."
+        }
+      ]
+    },
+    {
+      "id": "magias-escuridao-profunda-darkness-md",
+      "kind": "magia",
+      "name": "Escuridão Profunda",
+      "originalName": "Darkness",
+      "level": 2,
+      "category": "Evocação",
+      "action": "Principal",
+      "cost": "1 Espaço de Magia Nível 2",
+      "source": "Shadow Magic",
+      "range": "18 metros",
+      "tags": [
+        "Escuridão",
+        "Controle",
+        "Shadow Magic"
+      ],
+      "sourcePath": "_Magias/🌑 Escuridão Profunda (Darkness).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Escuridão Profunda",
+        "nome_original": "Darkness",
+        "nivel": 2,
+        "circulo": 2,
+        "escola": "Evocação",
+        "origem": "Shadow Magic",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "1 Espaço de Magia Nível 2",
+        "recurso": "Espaços de Magia",
+        "execucao": "Instantânea",
+        "duracao": "Até 10 minutos",
+        "alcance_m": 18,
+        "alcance_texto": "18 metros",
+        "concentracao": true,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Material"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "",
+        "preparada": false,
+        "conhecida": false,
+        "favorita": false,
+        "homebrew": false,
+        "versao_kindred": false,
+        "status": "",
+        "tags": [
+          "Escuridão",
+          "Controle",
+          "Shadow Magic"
+        ],
+        "aliases": [
+          "Darkness"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Efeitos",
+          "content": "Cria uma esfera de escuridão mágica que bloqueia toda visão normal ou visão no escuro dentro da área.\n\nA escuridão pode ser fixada a objetos ou superfícies e se move junto deles.\n\n- Luz normal não atravessa a área.\n- Magias de luz de nível igual ou inferior são dissipadas.\n- Criaturas dentro da área ficam efetivamente cegas para tudo fora dela."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Não possui escalonamento."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "As sombras parecem absorver luz e som, tornando o ambiente opressor e sobrenatural."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A escuridão não parece apenas ausência de luz; ela parece viva, observando silenciosamente aqueles presos em seu interior."
+        }
+      ]
+    },
+    {
+      "id": "magias-pilar-da-luz-lunar-moonbeam-md",
+      "kind": "magia",
+      "name": "Pilar da Luz Lunar",
+      "originalName": "Moonbeam",
+      "level": 2,
+      "category": "Evocação",
+      "action": "Principal",
+      "cost": "1 Espaço de Magia Nível 2",
+      "source": "Arcana",
+      "damage": "2d10",
+      "range": "36 metros",
+      "tags": [
+        "Magia",
+        "Evocação",
+        "Radiante",
+        "Área"
+      ],
+      "sourcePath": "_Magias/🌕 Pilar da Luz Lunar (Moonbeam).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Pilar da Luz Lunar",
+        "nome_original": "Moonbeam",
+        "nivel": 2,
+        "circulo": 2,
+        "escola": "Evocação",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "1 Espaço de Magia Nível 2",
+        "recurso": "Espaços de Magia",
+        "execucao": "1 Ação",
+        "duracao": "Até 1 minuto",
+        "alcance_m": 36,
+        "alcance_texto": "36 metros",
+        "concentracao": true,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático",
+          "Material"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "Constituição",
+        "dano_base": "2d10",
+        "dano_tipo": "Radiante",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "+1d10 por nível acima do 2º",
+        "preparada": false,
+        "conhecida": false,
+        "favorita": false,
+        "homebrew": false,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Magia",
+          "Evocação",
+          "Radiante",
+          "Área"
+        ],
+        "aliases": [
+          "Moonbeam"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:** \n> **Nível:** \n> **Círculo:** \n> **Escola:** \n> **Classe:** \n> **Ação:** \n> **Execução:** \n> **Duração:** \n> **Alcance:** \n> **Custo:** \n> **Dano base:** \n> **Concentração:** \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Um feixe prateado de luz lunar desce sobre um ponto dentro do alcance, formando um cilindro de 1,5 metro de raio e 12 metros de altura.\n\nQuando uma criatura entra pela primeira vez na área ou inicia seu turno nela:\n\n- Deve realizar um teste de resistência de Constituição.\n- Falha: sofre 2d10 de dano radiante.\n- Sucesso: sofre metade do dano.\n\nMetamorfas possuem desvantagem no teste.\n\nSe falharem:\n\n- Retornam imediatamente à forma original.\n- Não podem mudar de forma enquanto permanecerem dentro da luz.\n\nVocê pode usar sua ação em turnos posteriores para mover o feixe até 18 metros."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Ao conjurar utilizando um espaço de magia de 3º nível ou superior, o dano aumenta em 1d10 para cada nível acima do 2º."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "- A luz assume a forma de uma lâmina lunar prateada.\n- Alvos marcados enxergam lobos espirituais dentro do feixe.\n- A luz parece revelar a verdadeira natureza da alma atingida.\n- Metamorfas marcadas sentem a presença vigilante da Caçada."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Cinzas lunares caem lentamente dentro da área iluminada enquanto um brilho frio e julgador envolve todos que atravessam o feixe."
+        }
+      ]
+    },
+    {
+      "id": "magias-ilusao-menor-minor-illusion-md",
+      "kind": "magia",
+      "name": "Ilusão Menor",
+      "originalName": "Minor Illusion",
+      "level": 0,
+      "category": "Ilusão",
+      "action": "Principal",
+      "cost": "Nenhum",
+      "source": "Arcana",
+      "range": "9 metros",
+      "tags": [
+        "Truque",
+        "Ilusão",
+        "Utilidade"
+      ],
+      "sourcePath": "_Magias/🌫️ Ilusão Menor (Minor Illusion).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Ilusão Menor",
+        "nome_original": "Minor Illusion",
+        "nivel": "0",
+        "circulo": "Truque",
+        "escola": "Ilusão",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "Nenhum",
+        "recurso": "Truque",
+        "execucao": "Instantânea",
+        "duracao": "1 Minuto",
+        "alcance_m": 9,
+        "alcance_texto": "9 metros",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [
+          "Somático",
+          "Material"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "Investigação",
+        "dano_base": "",
+        "dano_tipo": "",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "",
+        "preparada": false,
+        "conhecida": true,
+        "favorita": true,
+        "homebrew": false,
+        "versao_kindred": false,
+        "status": "",
+        "tags": [
+          "Truque",
+          "Ilusão",
+          "Utilidade"
+        ],
+        "aliases": [
+          "Minor Illusion"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "[Resumo igual ao template]"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Cria uma imagem estática ou um som ilusório dentro do alcance.\n\nA ilusão ocupa um cubo de até 1,5 metro e não causa dano."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Não possui escalonamento."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "Não possui efeitos adicionais."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Sombras e ecos espirituais tornam as ilusões particularmente inquietantes para quem as observa."
+        }
+      ]
+    },
+    {
+      "id": "magias-misseis-espectrais-magic-missile-md",
+      "kind": "magia",
+      "name": "Mísseis Espectrais",
+      "originalName": "Magic Missile",
+      "level": 1,
+      "category": "Evocação",
+      "action": "Principal",
+      "cost": "1 Espaço de Magia Nível 1",
+      "source": "Arcana",
+      "damage": "1d4 + 1 por míssil",
+      "range": "36 metros",
+      "tags": [
+        "Magia",
+        "Evocação",
+        "Dano",
+        "Kindred"
+      ],
+      "sourcePath": "_Magias/🎯 Mísseis Espectrais (Magic Missile).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Mísseis Espectrais",
+        "nome_original": "Magic Missile",
+        "nivel": 1,
+        "circulo": 1,
+        "escola": "Evocação",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "1 Espaço de Magia Nível 1",
+        "recurso": "Espaços de Magia",
+        "execucao": "Instantânea",
+        "duracao": "Instantânea",
+        "alcance_m": 36,
+        "alcance_texto": "36 metros",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático"
+        ],
+        "tipo_ataque": "Acerto Automático",
+        "salvaguarda": "",
+        "dano_base": "1d4 + 1 por míssil",
+        "dano_tipo": "Força",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "+1 míssil por nível acima do 1º",
+        "preparada": false,
+        "conhecida": true,
+        "favorita": true,
+        "homebrew": true,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Magia",
+          "Evocação",
+          "Dano",
+          "Kindred"
+        ],
+        "aliases": [
+          "Magic Missile"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:** \n> **Nível:** \n> **Círculo:** \n> **Escola:** \n> **Classe:** \n> **Ação:** \n> **Execução:** \n> **Duração:** \n> **Alcance:** \n> **Custo:** \n> **Dano base:** \n> **Concentração:** \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Você cria três dardos espectrais de pura energia arcana.\n\nCada míssil atinge automaticamente uma criatura visível dentro do alcance.\n\n- Cada míssil causa 1d4 + 1 de dano de Força.\n- Os mísseis podem atingir um único alvo ou serem distribuídos entre vários inimigos.\n- Todos os impactos acontecem simultaneamente."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Ao conjurar utilizando um espaço de magia de 2º nível ou superior, você cria um míssil adicional para cada nível acima do 1º.\n\nExemplos:\n\n- 2º nível → 4 mísseis\n- 3º nível → 5 mísseis\n- 4º nível → 6 mísseis"
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "- Se o alvo estiver marcado pela Marca do Inevitável, um dos mísseis converte-se em energia necrótica e causa +1d4 de dano adicional.\n- Os projéteis deixam rastros prateados semelhantes a almas sendo conduzidas pela Caçada.\n- Quando todos os mísseis atingem, um sussurro distante ecoa ao redor do alvo."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Os mísseis parecem fragmentos de sombra luminosa.\n\nAo atingir o alvo, dissipam-se em poeira espiritual, como se tivessem arrancado pequenos fragmentos da alma da vítima."
+        }
+      ]
+    },
+    {
+      "id": "magias-abraco-da-morte-embrace-of-death-md",
+      "kind": "magia",
+      "name": "Abraço da Morte",
+      "originalName": "Embrace of Death",
+      "level": 2,
+      "category": "Necromancia",
+      "action": "Principal",
+      "cost": "2 Pontos de Feitiçaria",
+      "source": "Kindred",
+      "damage": "3d10",
+      "range": "18 metros",
+      "tags": [
+        "Kindred",
+        "Necromancia",
+        "Execução"
+      ],
+      "sourcePath": "_Magias/💀 Abraço da Morte (Embrace of Death).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Abraço da Morte",
+        "nome_original": "Embrace of Death",
+        "nivel": 2,
+        "circulo": 2,
+        "escola": "Necromancia",
+        "origem": "Kindred",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "2 Pontos de Feitiçaria",
+        "recurso": "Pontos de Feitiçaria",
+        "execucao": "1 Ação",
+        "duracao": "1 Turno",
+        "alcance_m": 18,
+        "alcance_texto": "18 metros",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [
+          "Somático"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "3d10",
+        "dano_tipo": "Necrótico",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "",
+        "preparada": false,
+        "conhecida": false,
+        "favorita": false,
+        "homebrew": true,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Kindred",
+          "Necromancia",
+          "Execução"
+        ],
+        "aliases": [
+          "Embrace of Death"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:** \n> **Nível:** \n> **Círculo:** \n> **Escola:** \n> **Classe:** \n> **Ação:** \n> **Execução:** \n> **Duração:** \n> **Alcance:** \n> **Custo:** \n> **Dano base:** \n> **Concentração:** \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "O alvo é envolto por energia crepuscular.\n\nNo final do próximo turno do conjurador, a energia explode em dor espiritual e corrupção arcana."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Não possui escalonamento."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "- Causa 3d10 de dano necrótico.\n- Se o alvo estiver marcado, sofre +1d10 de dano adicional.\n- O alvo fica Amedrontado até o final do próximo turno."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "As vítimas enxergam por um instante o reflexo de seu próprio destino antes que as sombras reclamem parte de sua alma."
+        }
+      ]
+    },
+    {
+      "id": "magias-ruptura-ensurdecedora-shatter-md",
+      "kind": "magia",
+      "name": "Ruptura Ensurdecedora",
+      "originalName": "Shatter",
+      "level": 2,
+      "category": "Evocação",
+      "action": "Principal",
+      "cost": "1 Espaço de Magia Nível 2",
+      "source": "Arcana",
+      "damage": "3d8",
+      "range": "18 metros",
+      "tags": [
+        "Magia",
+        "Evocação",
+        "Trovão",
+        "Área"
+      ],
+      "sourcePath": "_Magias/💥 Ruptura Ensurdecedora (Shatter).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Ruptura Ensurdecedora",
+        "nome_original": "Shatter",
+        "nivel": 2,
+        "circulo": 2,
+        "escola": "Evocação",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "1 Espaço de Magia Nível 2",
+        "recurso": "Espaços de Magia",
+        "execucao": "1 Ação",
+        "duracao": "Instantânea",
+        "alcance_m": 18,
+        "alcance_texto": "18 metros",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático",
+          "Material"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "Constituição",
+        "dano_base": "3d8",
+        "dano_tipo": "Trovão",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "+1d8 por nível acima do 2º",
+        "preparada": false,
+        "conhecida": false,
+        "favorita": false,
+        "homebrew": false,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Magia",
+          "Evocação",
+          "Trovão",
+          "Área"
+        ],
+        "aliases": [
+          "Shatter"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:** \n> **Nível:** \n> **Círculo:** \n> **Escola:** \n> **Classe:** \n> **Ação:** \n> **Execução:** \n> **Duração:** \n> **Alcance:** \n> **Custo:** \n> **Dano base:** \n> **Concentração:** \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Um estrondo ensurdecedor explode em um ponto à sua escolha dentro do alcance.\n\nTodas as criaturas em uma esfera de 3 metros devem realizar um teste de resistência de Constituição.\n\n- Falha: sofre 3d8 de dano trovejante.\n- Sucesso: sofre metade do dano.\n\nCriaturas feitas de pedra, cristal ou metal possuem desvantagem no teste.\n\nObjetos não mágicos que não estejam sendo carregados ou vestidos também sofrem o dano."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Ao conjurar usando um espaço de magia de 3º nível ou superior, o dano aumenta em 1d8 para cada nível acima do 2º."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "- O estrondo ecoa como um sino fúnebre distante.\n- Fissuras espectrais surgem brevemente no ar.\n- A explosão parece rasgar momentaneamente o véu entre vida e morte."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "O impacto soa como o estilhaçar de um cristal espiritual gigantesco, deixando ecos inquietantes pairando no ambiente."
+        }
+      ]
+    },
+    {
+      "id": "magias-rajada-de-vento-gust-of-wind-md",
+      "kind": "magia",
+      "name": "Rajada de Vento",
+      "originalName": "Gust of Wind",
+      "level": 2,
+      "category": "Evocação",
+      "action": "Principal",
+      "cost": "1 Espaço de Magia Nível 2",
+      "source": "Arcana",
+      "range": "Si mesmo (Linha de 18 metros)",
+      "tags": [
+        "Magia",
+        "Evocação",
+        "Controle",
+        "Área"
+      ],
+      "sourcePath": "_Magias/💨 Rajada de Vento (Gust of Wind).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Rajada de Vento",
+        "nome_original": "Gust of Wind",
+        "nivel": 2,
+        "circulo": 2,
+        "escola": "Evocação",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "1 Espaço de Magia Nível 2",
+        "recurso": "Espaços de Magia",
+        "execucao": "1 Ação",
+        "duracao": "Até 1 minuto",
+        "alcance_m": 18,
+        "alcance_texto": "Si mesmo (Linha de 18 metros)",
+        "concentracao": true,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático",
+          "Material"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "Força",
+        "dano_base": "",
+        "dano_tipo": "",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "",
+        "preparada": false,
+        "conhecida": false,
+        "favorita": false,
+        "homebrew": false,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Magia",
+          "Evocação",
+          "Controle",
+          "Área"
+        ],
+        "aliases": [
+          "Gust of Wind"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:** \n> **Nível:** \n> **Círculo:** \n> **Escola:** \n> **Classe:** \n> **Ação:** \n> **Execução:** \n> **Duração:** \n> **Alcance:** \n> **Custo:** \n> **Dano base:** \n> **Concentração:** \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Uma poderosa corrente de vento surge de você em uma linha de 18 metros por 3 metros.\n\nCriaturas que iniciarem seu turno dentro da linha devem realizar um teste de resistência de Força.\n\n- Falha: são empurradas 4,5 metros para longe de você.\n- Sucesso: permanecem onde estão.\n\nMovimentar-se contra o vento custa o dobro do deslocamento.\n\nA rajada também:\n\n- Dispersa gases e vapores.\n- Apaga chamas desprotegidas.\n- Pode apagar chamas protegidas com 50% de chance.\n\nComo ação bônus, você pode alterar a direção da rajada."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "- O vento assume a forma de um uivo constante da Caçada.\n- Partículas lunares brilham entre as correntes de ar.\n- Criaturas marcadas sentem como se uma força espiritual tentasse expulsá-las do caminho."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A corrente é fria como uma madrugada iluminada pela lua, carregando sussurros distantes e rastros de energia prateada."
+        }
+      ]
+    },
+    {
+      "id": "magias-mensagem-md",
+      "kind": "magia",
+      "name": "Mensagem",
+      "originalName": "Message",
+      "level": 0,
+      "category": "Transmutação",
+      "action": "Principal",
+      "cost": "Nenhum",
+      "source": "Arcana",
+      "range": "36 metros",
+      "tags": [
+        "Truque",
+        "Comunicação"
+      ],
+      "sourcePath": "_Magias/📱 Mensagem.md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Mensagem",
+        "nome_original": "Message",
+        "nivel": "0",
+        "circulo": "Truque",
+        "escola": "Transmutação",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "Nenhum",
+        "recurso": "Truque",
+        "execucao": "Instantânea",
+        "duracao": "1 Turno",
+        "alcance_m": 36,
+        "alcance_texto": "36 metros",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático",
+          "Material"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "",
+        "preparada": false,
+        "conhecida": true,
+        "favorita": true,
+        "homebrew": false,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Truque",
+          "Comunicação"
+        ],
+        "aliases": [
+          "Message"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "[Resumo igual ao template]"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Envia uma mensagem telepática sussurrada para uma criatura dentro do alcance.\n\nO alvo pode responder imediatamente."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Não possui escalonamento."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "A mensagem ecoa como uma lembrança distante na mente do alvo."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "As palavras parecem viajar através das sombras antes de alcançar o destinatário."
+        }
+      ]
+    },
+    {
+      "id": "magias-raio-de-fogo-fire-bolt-md",
+      "kind": "magia",
+      "name": "Raio de Fogo",
+      "originalName": "Fire Bolt",
+      "level": 0,
+      "category": "Evocação",
+      "action": "Principal",
+      "cost": "Nenhum",
+      "source": "Arcana",
+      "damage": "1d10",
+      "range": "36 metros",
+      "tags": [
+        "Truque",
+        "Evocação",
+        "Fogo"
+      ],
+      "sourcePath": "_Magias/🔥 Raio de Fogo (Fire Bolt).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Raio de Fogo",
+        "nome_original": "Fire Bolt",
+        "nivel": "0",
+        "circulo": "Truque",
+        "escola": "Evocação",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "Nenhum",
+        "recurso": "Truque",
+        "execucao": "Instantânea",
+        "duracao": "Instantânea",
+        "alcance_m": 36,
+        "alcance_texto": "36 metros",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático"
+        ],
+        "tipo_ataque": "Ataque de Magia à Distância",
+        "salvaguarda": "",
+        "dano_base": "1d10",
+        "dano_tipo": "Fogo",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "2d10 (5º), 3d10 (11º), 4d10 (17º)",
+        "preparada": false,
+        "conhecida": true,
+        "favorita": true,
+        "homebrew": false,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Truque",
+          "Evocação",
+          "Fogo"
+        ],
+        "aliases": [
+          "Fire Bolt"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "> [!info]- Resumo rápido\n> **Tipo:** \n> **Nível:** \n> **Círculo:** \n> **Escola:** \n> **Classe:** \n> **Ação:** \n> **Execução:** \n> **Duração:** \n> **Alcance:** \n> **Custo:** \n> **Dano base:** \n> **Concentração:** \n> **Ritual:**"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Dispara um projétil flamejante concentrado contra uma criatura ou objeto.\n\nFaça uma jogada de ataque à distância com magia.\n\n- Acerto: 1d10 de dano de fogo.\n- Objetos inflamáveis não carregados entram em combustão."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "- 5º nível: 2d10\n- 11º nível: 3d10\n- 17º nível: 4d10"
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "- Alvos marcados sofrem +1 de dano necrótico.\n- O disparo projeta sombras lupinas por um breve instante."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A chama parece conter ecos de almas consumidas pelo fogo da Caçada."
+        }
+      ]
+    },
+    {
+      "id": "magias-maos-magicas-mage-hand-md",
+      "kind": "magia",
+      "name": "Mão Mágica",
+      "originalName": "Mage Hand",
+      "level": 0,
+      "category": "Conjuração",
+      "action": "Principal",
+      "cost": "Nenhum",
+      "source": "Arcana",
+      "range": "9 metros",
+      "tags": [
+        "Truque",
+        "Conjuração",
+        "Utilidade"
+      ],
+      "sourcePath": "_Magias/🖐️ Mãos Magicas (Mage Hand).md",
+      "frontmatter": {
+        "tipo": "magia",
+        "nome": "Mão Mágica",
+        "nome_original": "Mage Hand",
+        "nivel": "0",
+        "circulo": "Truque",
+        "escola": "Conjuração",
+        "origem": "Arcana",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "acao": "Principal",
+        "custo": "Nenhum",
+        "recurso": "Truque",
+        "execucao": "Instantânea",
+        "duracao": "1 Minuto",
+        "alcance_m": 9,
+        "alcance_texto": "9 metros",
+        "concentracao": false,
+        "ritual": false,
+        "componentes": [
+          "Verbal",
+          "Somático"
+        ],
+        "tipo_ataque": "",
+        "salvaguarda": "",
+        "dano_base": "",
+        "dano_tipo": "",
+        "dano_opcoes": "",
+        "escala_nivel_superior": "",
+        "preparada": false,
+        "conhecida": true,
+        "favorita": true,
+        "homebrew": false,
+        "versao_kindred": true,
+        "status": "",
+        "tags": [
+          "Truque",
+          "Conjuração",
+          "Utilidade"
+        ],
+        "aliases": [
+          "Mage Hand"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle",
+          "content": "[Resumo igual ao template]"
+        },
+        {
+          "title": "Efeitos",
+          "content": "Conjura uma mão espectral capaz de manipular objetos a distância.\n\n- Pode carregar até 4,5 kg.\n- Pode abrir portas, mover objetos e interagir com mecanismos simples.\n- Não pode atacar nem ativar itens mágicos."
+        },
+        {
+          "title": "Em Níveis Superiores",
+          "content": "Não possui escalonamento."
+        },
+        {
+          "title": "Efeitos Adicionais — Versão Kindred",
+          "content": "A mão assume a aparência de uma garra espectral prateada ou sombria."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Parece uma alma parcialmente materializada obedecendo aos comandos do conjurador."
+        }
+      ]
+    },
+    {
+      "id": "personagens-grupo-devil-may-cry-md",
+      "kind": "grupo",
+      "name": "Devil May Cry",
+      "category": "Party",
+      "tags": [
+        "party"
+      ],
+      "sourcePath": "_Personagens/_Grupo/Devil May Cry.md",
+      "frontmatter": {
+        "tipo": "Grupo",
+        "nome": "Devil May Cry",
+        "categoria": "Party",
+        "lider": "[[_Personagens/_NPCs/Umpianos]]",
+        "base": "",
+        "membros": "[[Select Note]]",
+        "aliados": [],
+        "inimigos": [],
+        "reputacao": "",
+        "status": "Ativo",
+        "image": "",
+        "tags": [
+          "party"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Objetivos",
+          "content": "Grupo de aventureiros unidos por interesses em comum, exploração, combate a ameaças e busca por poder e conhecimento."
+        },
+        {
+          "title": "Liderança",
+          "content": "Atualmente liderado por _Personagens/_NPCs/Umpianos"
+        },
+        {
+          "title": "Membros Conhecidos",
+          "content": "Ver lista de membros."
+        },
+        {
+          "title": "Relações",
+          "content": "A definir."
+        },
+        {
+          "title": "História",
+          "content": "A definir."
+        },
+        {
+          "title": "Segredos",
+          "content": "A definir."
+        }
+      ]
+    },
+    {
+      "id": "personagens-grupo-lobos-brancos-md",
+      "kind": "grupo",
+      "name": "Lobos Brancos",
+      "category": "Companhia Mercenária",
+      "tags": [
+        "mercenarios",
+        "guilda",
+        "demi-humanos"
+      ],
+      "sourcePath": "_Personagens/_Grupo/Lobos Brancos.md",
+      "frontmatter": {
+        "tipo": "Grupo",
+        "nome": "Lobos Brancos",
+        "categoria": "Companhia Mercenária",
+        "lider": "",
+        "base": "",
+        "membros": [],
+        "aliados": [],
+        "inimigos": [],
+        "reputacao": "Respeitada",
+        "status": "Ativa",
+        "image": "",
+        "tags": [
+          "mercenarios",
+          "guilda",
+          "demi-humanos"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Objetivos",
+          "content": "Atuar como força mercenária independente, protegendo interesses de seus contratantes enquanto oferece oportunidades para aventureiros, mercenários e demi-humanos."
+        },
+        {
+          "title": "Liderança",
+          "content": "A organização é comandada por uma liderança central responsável por negociar contratos, manter a reputação da companhia e lidar com autoridades governamentais."
+        },
+        {
+          "title": "Membros Conhecidos",
+          "content": "A companhia aceita membros de diversas origens, incluindo humanos, demi-humanos e outras raças frequentemente rejeitadas por organizações mais tradicionais."
+        },
+        {
+          "title": "Relações",
+          "content": "Embora funcione de maneira independente, os Lobos Brancos ainda reconhecem a autoridade dos governos locais e evitam confrontos diretos com o poder estabelecido.\n\nCostumam cooperar com cidades, reinos e assentamentos quando interesses mútuos estão envolvidos."
+        },
+        {
+          "title": "História",
+          "content": "Os Lobos Brancos surgiram como uma alternativa às guildas tradicionais, abrindo suas portas para indivíduos que normalmente encontrariam dificuldades para ingressar em organizações oficiais.\n\nCom o passar dos anos, cresceram até se tornar uma força reconhecida, atuando como uma espécie de guilda paralela ao governo."
+        },
+        {
+          "title": "Segredos",
+          "content": "Apesar de sua reputação respeitável, existem rumores de que a organização mantém operações e contratos que nunca chegam ao conhecimento público.\n\nAlguns acreditam que os Lobos Brancos possuem agentes infiltrados em diversas cidades e governos."
+        }
+      ]
+    },
+    {
+      "id": "personagens-grupo-corte-de-verao-md",
+      "kind": "grupo",
+      "name": "Corte de Verão",
+      "category": "Corte Feérica",
+      "tags": [
+        "feywild",
+        "corte",
+        "verao"
+      ],
+      "sourcePath": "_Personagens/_Grupo/☀️Corte de Verão.md",
+      "frontmatter": {
+        "tipo": "Grupo",
+        "nome": "Corte de Verão",
+        "categoria": "Corte Feérica",
+        "lider": "",
+        "base": "Feywild",
+        "membros": [],
+        "aliados": [],
+        "inimigos": [
+          "[[_Personagens/_Grupo/🌱Corte de Primavera]]",
+          "[[_Personagens/_Grupo/🍂Corte de Outono]]",
+          "[[_Personagens/_Grupo/❄️Corte de Inverno]]"
+        ],
+        "reputacao": "Agressiva",
+        "status": "Ativa",
+        "image": "",
+        "tags": [
+          "feywild",
+          "corte",
+          "verao"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Objetivos",
+          "content": "Unificar ou subjugar as demais Cortes Feéricas."
+        },
+        {
+          "title": "Liderança",
+          "content": "Desconhecida."
+        },
+        {
+          "title": "Membros Conhecidos",
+          "content": "Nenhum."
+        },
+        {
+          "title": "Relações",
+          "content": "Atualmente busca todas as outras Cortes."
+        },
+        {
+          "title": "História",
+          "content": "Movimentos recentes indicam que a Corte de Verão está expandindo sua influência pelo Feywild."
+        },
+        {
+          "title": "Segredos",
+          "content": "Ninguém sabe o verdadeiro motivo de sua busca pelas demais Cortes."
+        }
+      ]
+    },
+    {
+      "id": "personagens-grupo-corte-de-inverno-md",
+      "kind": "grupo",
+      "name": "Corte de Inverno",
+      "category": "Corte Feérica",
+      "tags": [
+        "feywild",
+        "corte",
+        "inverno"
+      ],
+      "sourcePath": "_Personagens/_Grupo/❄️Corte de Inverno.md",
+      "frontmatter": {
+        "tipo": "Grupo",
+        "nome": "Corte de Inverno",
+        "categoria": "Corte Feérica",
+        "lider": "[[_Personagens/_NPCs/Espirito de Lobo]]",
+        "base": "Feywild",
+        "membros": [],
+        "aliados": [],
+        "inimigos": [],
+        "reputacao": "Temida",
+        "status": "Ativa",
+        "image": "",
+        "tags": [
+          "feywild",
+          "corte",
+          "inverno"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Objetivos",
+          "content": "Manter os antigos pactos do inverno e proteger seus domínios."
+        },
+        {
+          "title": "Liderança",
+          "content": "Associada ao poderoso _Personagens/_NPCs/Espirito de Lobo."
+        },
+        {
+          "title": "Membros Conhecidos",
+          "content": "Nenhum."
+        },
+        {
+          "title": "Relações",
+          "content": "Mantém relações incertas com as demais Cortes."
+        },
+        {
+          "title": "História",
+          "content": "A Corte de Inverno é envolta em mitos antigos e lendas sobre caçadas eternas."
+        },
+        {
+          "title": "Segredos",
+          "content": "Poucos sobreviveram após encontrar o Grande Espírito de Lobo."
+        }
+      ]
+    },
+    {
+      "id": "personagens-grupo-corte-de-primavera-md",
+      "kind": "grupo",
+      "name": "Corte de Primavera",
+      "category": "Corte Feérica",
+      "tags": [
+        "feywild",
+        "corte",
+        "primavera"
+      ],
+      "sourcePath": "_Personagens/_Grupo/🌱Corte de Primavera.md",
+      "frontmatter": {
+        "tipo": "Grupo",
+        "nome": "Corte de Primavera",
+        "categoria": "Corte Feérica",
+        "lider": "",
+        "base": "Feywild",
+        "membros": [],
+        "aliados": [],
+        "inimigos": [],
+        "reputacao": "Misteriosa",
+        "status": "Ativa",
+        "image": "",
+        "tags": [
+          "feywild",
+          "corte",
+          "primavera"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Objetivos",
+          "content": "Preservar o ciclo da renovação, crescimento e renascimento."
+        },
+        {
+          "title": "Liderança",
+          "content": "Desconhecida."
+        },
+        {
+          "title": "Membros Conhecidos",
+          "content": "- _Personagens/_NPCs/Minx"
+        },
+        {
+          "title": "Relações",
+          "content": "Mantém relações complexas com as demais Cortes Feéricas."
+        },
+        {
+          "title": "História",
+          "content": "Dizem que seus membros nunca morrem verdadeiramente. Quando chegam ao fim de uma estação, renascem junto ao início de outra."
+        },
+        {
+          "title": "Segredos",
+          "content": "Poucos sabem o que acontece com uma fada da Primavera após sua morte."
+        }
+      ]
+    },
+    {
+      "id": "personagens-grupo-corte-de-outono-md",
+      "kind": "grupo",
+      "name": "Corte de Outono",
+      "category": "Corte Feérica",
+      "tags": [
+        "feywild",
+        "corte",
+        "outono"
+      ],
+      "sourcePath": "_Personagens/_Grupo/🍂Corte de Outono.md",
+      "frontmatter": {
+        "tipo": "Grupo",
+        "nome": "Corte de Outono",
+        "categoria": "Corte Feérica",
+        "lider": "",
+        "base": "Feywild",
+        "membros": [],
+        "aliados": [],
+        "inimigos": [],
+        "reputacao": "Desconhecida",
+        "status": "Desconhecido",
+        "image": "",
+        "tags": [
+          "feywild",
+          "corte",
+          "outono"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Objetivos",
+          "content": "Desconhecidos."
+        },
+        {
+          "title": "Liderança",
+          "content": "Desconhecida."
+        },
+        {
+          "title": "Membros Conhecidos",
+          "content": "Nenhum."
+        },
+        {
+          "title": "Relações",
+          "content": "Nenhuma informação registrada."
+        },
+        {
+          "title": "História",
+          "content": "Praticamente nada se sabe sobre a Corte de Outono."
+        },
+        {
+          "title": "Segredos",
+          "content": "Talvez o simples fato de permanecer oculta seja seu maior segredo."
+        }
+      ]
+    },
+    {
+      "id": "personagens-local-torre-da-magia-md",
+      "kind": "local",
+      "name": "Torre da Magia",
+      "category": "cidade",
+      "tags": [
+        "magia",
+        "academia",
+        "reino"
+      ],
+      "sourcePath": "_Personagens/_Local/Torre da Magia.md",
+      "frontmatter": {
+        "tipo": "localidade",
+        "nome": "Torre da Magia",
+        "categoria": "cidade",
+        "governante": "Conselho Arcano",
+        "faccao_principal": "Magos Oficiais",
+        "populacao": "",
+        "local_pai": "",
+        "aliados": [],
+        "inimigos": [],
+        "npcs_importantes": [],
+        "status": "Ativa",
+        "image": "",
+        "tags": [
+          "magia",
+          "academia",
+          "reino"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Visão Geral",
+          "content": "A Torre da Magia é uma instituição arcana oficial presente em praticamente todas as grandes cidades do reino.\n\nComo a prática da magia é proibida para a população comum, os usuários autorizados são obrigados a viver, estudar e trabalhar dentro dessas estruturas.\n\nCada torre funciona simultaneamente como academia, residência, centro de pesquisa e órgão regulador da magia."
+        },
+        {
+          "title": "Governo",
+          "content": "As torres são administradas por um Conselho Arcano subordinado ao governo do reino.\n\nEmbora possuam autonomia para lidar com assuntos mágicos, ainda respondem às autoridades estatais.\n\nMagos não autorizados são considerados criminosos ou praticantes de magia ilegal."
+        },
+        {
+          "title": "Habitantes Importantes",
+          "content": "- Arquimagos\n- Professores Arcanos\n- Aprendizes\n- Pesquisadores\n- Guardiões Arcanos"
+        },
+        {
+          "title": "Conflitos",
+          "content": "A existência das torres gera debates constantes:\n\n- Magia deve permanecer controlada?\n- O Estado possui o direito de monopolizar o conhecimento arcano?\n- O que acontece com magos que recusam viver nas torres?\n\nMuitos usuários de magia operam clandestinamente fora do sistema oficial."
+        },
+        {
+          "title": "História",
+          "content": "Após antigas guerras arcanas, o reino decidiu restringir severamente o uso da magia.\n\nPara evitar a extinção completa do conhecimento mágico, foi criado o sistema das Torres da Magia.\n\nDesde então, todo mago oficial deve ser registrado e supervisionado por uma delas.\n\nEm muitos casos, os magos passam a vida inteira dentro desses complexos."
+        },
+        {
+          "title": "Rumores",
+          "content": "Dizem que algumas torres escondem bibliotecas proibidas contendo magias banidas.\n\nOutros acreditam que os Arquimagos sabem muito mais sobre a origem da magia do que revelam ao reino.\n\nHá também rumores de magos que desapareceram após descobrir segredos que não deveriam existir."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-bryce-md",
+      "kind": "npc",
+      "name": "Bryce",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "party"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Bryce.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Bryce",
+        "titulo": "",
+        "raca": "Humano",
+        "classe": "",
+        "origem": "Acampamento",
+        "faccao": "Devil May Cry",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]",
+          "[[_Personagens/_Grupo/Devil May Cry.md]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Bryce.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "party"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Descrição física ainda não definida."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Ainda não definida."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A definir."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-corvo-md",
+      "kind": "npc",
+      "name": "Corvo",
+      "source": "Cidade Nova",
+      "tags": [
+        "npc",
+        "feiticeiro",
+        "runas"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Corvo.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Corvo",
+        "titulo": "Mestre dos Corvos",
+        "raca": "",
+        "classe": [
+          "Feiticeiro"
+        ],
+        "origem": "Cidade Nova",
+        "faccao": "[[Corvos]]",
+        "localizacao": "Cidade Nova",
+        "relacao": "",
+        "conexao": [
+          "[[Corvos]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": false,
+        "importancia": "Alta",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Corvo.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "feiticeiro",
+          "runas"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Figura enigmática cuja presença inspira curiosidade e cautela."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Sábio, reservado e extremamente conhecedor de assuntos arcanos pouco compreendidos pela maioria dos magos."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Líder do grupo Corvos."
+        },
+        {
+          "title": "Histórico",
+          "content": "Corvo tornou-se conhecido por estudar um sistema mágico baseado em runas antigas, diferente das escolas de magia tradicionalmente ensinadas pelas Torres da Magia.\n\nSeu conhecimento é considerado raro e valioso."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "- Mestre dos Corvos.\n- Estudioso de runas antigas.\n- Utiliza um sistema mágico diferente do padrão moderno.\n- Possui conhecimentos que muitos magos oficiais desconhecem.\n\n> \"As runas existiam antes das escolas. E continuarão existindo depois delas.\""
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-espirito-de-lobo-md",
+      "kind": "npc",
+      "name": "Espírito de Lobo",
+      "source": "Feywild",
+      "tags": [
+        "espirito",
+        "lobo",
+        "inverno",
+        "feywild"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Espirito de Lobo.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Espírito de Lobo",
+        "titulo": "Grande Caçador do Inverno",
+        "raca": "Espírito Patrono",
+        "classe": "",
+        "origem": "Feywild",
+        "faccao": "[[Corte de Inverno]]",
+        "localizacao": "Feywild",
+        "relacao": "Entidade Espiritual",
+        "conexao": [
+          "[[Corte de Inverno]]",
+          "[[Espírito Patrono]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": false,
+        "importancia": "Lendária",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Desenho0512.webp",
+        "icone": "",
+        "tags": [
+          "espirito",
+          "lobo",
+          "inverno",
+          "feywild"
+        ],
+        "aliases": [],
+        "\"[object Object]\"": "Corvos"
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Um lobo colossal formado por gelo, sombras e energia espiritual. Seus olhos brilham como luas congeladas durante a noite."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Paciente e inevitável. Enxerga a caça como parte natural do ciclo da vida e da morte."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Associado à Corte de Inverno e às antigas tradições dos Wilds."
+        },
+        {
+          "title": "Histórico",
+          "content": "Um dos mais poderosos Espíritos Patronos conhecidos. Sua presença é frequentemente associada a caçadas sobrenaturais, invernos rigorosos e pactos antigos."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "- Pode ocupar corpos mortais.\n- Pode agir através de avatares.\n- Comanda animais ligados aos Wilds.\n- Pode conceder bênçãos ou maldições.\n- Sua influência é particularmente forte durante o inverno."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-espirito-patrono-md",
+      "kind": "npc",
+      "name": "Espírito Patrono",
+      "source": "Feywild",
+      "tags": [
+        "espirito",
+        "feywild",
+        "patrono"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Espirito Patrono.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Espírito Patrono",
+        "titulo": "Guardião dos Wilds",
+        "raca": "Espírito Ancestral",
+        "classe": "",
+        "origem": "Feywild",
+        "faccao": "Feywild",
+        "localizacao": "Feywild",
+        "relacao": "Entidade Espiritual",
+        "conexao": [],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": false,
+        "importancia": "Lendária",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "",
+        "icone": "",
+        "tags": [
+          "espirito",
+          "feywild",
+          "patrono"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Poucos conseguem enxergar sua verdadeira forma. Geralmente manifesta-se como uma criatura colossal composta por energia espiritual e aspectos da natureza."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Antigo, distante e difícil de compreender. Sua visão do mundo ultrapassa os interesses de mortais e reinos."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Os Espíritos Patronos podem escolher campeões, formar pactos ou conceder bênçãos e maldições."
+        },
+        {
+          "title": "Histórico",
+          "content": "São espíritos extremamente poderosos ligados aos Wilds. Possuem influência sobre animais, regiões naturais e forças espirituais ancestrais."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "- Pode controlar animais dos Wilds.\n- Pode conceder maldições.\n- Pode ser corrompido pela influência humana.\n- Existem diversos Espíritos Patronos, cada um ligado a um aspecto diferente da natureza."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-hugo-fernandez-md",
+      "kind": "npc",
+      "name": "Hugo Fernandez",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "party"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Hugo Fernandez.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Hugo Fernandez",
+        "titulo": "",
+        "raca": "Humano",
+        "classe": "",
+        "origem": "Acampamento",
+        "faccao": "Devil May Cry",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [
+          "[[_Personagens/_NPCs/Liah.md]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Hugo Fernandez.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "party"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Descrição física ainda não definida."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Ainda não definida."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry. Possui conexão com _Personagens/_NPCs/Liah."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A definir."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-kaelan-md",
+      "kind": "npc",
+      "name": "Kaelan",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "party"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Kaelan.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Kaelan",
+        "titulo": "",
+        "raca": "Draconico",
+        "classe": "",
+        "origem": "Acampamento",
+        "faccao": "Devil May Cry",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Kaelan.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "party"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Aparência",
+          "content": "Kaelan é um dracônico mestiço de aproximadamente 2,04 metros de altura. Possui faixas pelo corpo, anda sem calçados, tem quatro braços, quatro rabos e usa uma faixa sobre os olhos."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Ainda não definida."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Suas partículas lembram o cheiro da morte."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-kitteh-md",
+      "kind": "npc",
+      "name": "Kitteh",
+      "tags": [
+        "npc",
+        "lobos-brancos"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Kitteh.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Kitteh",
+        "titulo": "",
+        "raca": "",
+        "classe": "",
+        "origem": "",
+        "faccao": "Devil May Cry",
+        "localizacao": "Vierna",
+        "relacao": "Chefe de Batalhão",
+        "conexao": [
+          "[[Vierna]]",
+          "[[_Personagens/_NPCs/Umpianos.md]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Kitteh.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "lobos-brancos"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Descrição física ainda não registrada."
+        },
+        {
+          "title": "Personalidade",
+          "content": "A definir."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Associada à cidade de Vierna e aos _Personagens/_Grupo/Lobos Brancos."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Pouco se sabe sobre Kitteh além de suas conexões conhecidas."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-liah-md",
+      "kind": "npc",
+      "name": "Liah",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "party"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Liah.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Liah",
+        "titulo": "",
+        "raca": "Meio Elfo",
+        "classe": "",
+        "origem": "Acampamento",
+        "faccao": "Devil May Cry",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [
+          "[[_Personagens/_NPCs/Hugo Fernandez.md]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Liah.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "party"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Descrição física ainda não definida."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Ainda não definida."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry. Possui conexão com _Personagens/_NPCs/Hugo Fernandez."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A definir."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-linarus-red-scale-md",
+      "kind": "npc",
+      "name": "Linarus Red Scale",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "paladino",
+        "vampiro"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Linarus Red Scale.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Linarus Red Scale",
+        "titulo": "",
+        "raca": "Vampiro",
+        "classe": "Paladino",
+        "origem": "Acampamento",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Linarus.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "paladino",
+          "vampiro"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Vampiro que carrega a postura disciplinada de um paladino."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Determinado e guiado por seus próprios princípios, equilibrando sua natureza vampírica com seu juramento."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A combinação entre vampiro e paladino gera constantes questionamentos sobre fé, dever e natureza."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-lupos-md",
+      "kind": "npc",
+      "name": "Lupos",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "party"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Lupos.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Lupos",
+        "titulo": "",
+        "raca": "Hibrido",
+        "classe": "",
+        "origem": "Acampamento",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Lupos.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "party"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[Ceu]]",
+          "[[Inferno]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Lupos possui uma aparência híbrida entre humano e demônio. Mede aproximadamente 1,80m de altura e carrega uma presença sombria e intimidadora."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Reservado e trevoso, transmite a sensação de que está sempre observando algo além do alcance dos demais."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Sua natureza híbrida desperta curiosidade e desconfiança em igual medida."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-minx-md",
+      "kind": "npc",
+      "name": "Minx",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "fada",
+        "druida"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Minx.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Minx",
+        "titulo": "",
+        "raca": "Fada",
+        "classe": "Druida",
+        "origem": "Acampamento",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [
+          "[[_Personagens/_Grupo/🍂Corte de Outono.md]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Minx.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "fada",
+          "druida"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]",
+          "[[Feywild]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Uma pequena fada de apenas 35 centímetros de altura. Possui pele rosada, cabelo rosa e orelhas pontudas."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Curiosa, energética e profundamente conectada às forças naturais e feéricas."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "Possui ligações com as Cortes Feéricas das quatro estações e com o _Personagens/_NPCs/Espirito de Lobo."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Apesar de sua aparência delicada, demonstra uma forte conexão com antigas forças da natureza."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-namira-belatrix-encatrix-iii-md",
+      "kind": "npc",
+      "name": "Namira Belatrix Encatrix III",
+      "source": "Cidade Nova",
+      "tags": [
+        "npc",
+        "vampira",
+        "alquimista",
+        "encantatriz"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Namira Belatrix Encatrix III.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Namira Belatrix Encatrix III",
+        "titulo": "",
+        "raca": "Vampira Acendida",
+        "classe": [
+          "Alquimista",
+          "Encantatriz"
+        ],
+        "origem": "Cidade Nova",
+        "faccao": "[[_Personagens/_Grupo/Lobos Brancos]]",
+        "localizacao": "Cidade Nova",
+        "relacao": "Amiga da Party",
+        "conexao": [
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ],
+        "status": "Ativa",
+        "vivo": true,
+        "hostil": false,
+        "aliado": false,
+        "importancia": "Alta",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Alquimista.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "vampira",
+          "alquimista",
+          "encantatriz"
+        ],
+        "aliases": [
+          "Namira"
+        ],
+        "Grupo": []
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Vampira de presença refinada, carregando consigo o ar de alguém acostumada a lidar tanto com fórmulas alquímicas quanto com encantamentos complexos."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Inteligente, meticulosa e fascinada pelo conhecimento. Costuma enxergar problemas como experimentos esperando uma solução."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Possui conexões com Vierna e com os _Personagens/_Grupo/Lobos Brancos."
+        },
+        {
+          "title": "Histórico",
+          "content": "Conhecida como alquimista e encantatriz, Namira dedica seus estudos à combinação entre magia e alquimia."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Seu nome completo sugere uma linhagem antiga e possivelmente nobre.\n\nSerena é citada como alquimista associada a ela."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-noar-md",
+      "kind": "npc",
+      "name": "Noar",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "lider",
+        "feiticeiro",
+        "kindred"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Noar.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Noar",
+        "titulo": "Aquele que Retornou da Morte",
+        "raca": "Reborn",
+        "classe": "Feiticeiro",
+        "origem": "Acampamento",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [
+          "[[Kindred]]",
+          "[[Shadow Magic]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "Principal",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Noar.jpg",
+        "icone": "",
+        "tags": [
+          "npc",
+          "lider",
+          "feiticeiro",
+          "kindred"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Homem de pele negra, olhos completamente negros e corpo magro. Mede aproximadamente 1,82m e carrega em seu peito a marca dos Kindred."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Reflexivo, melancólico e obcecado pelo conhecimento. Enxerga a magia como algo muito maior que um simples poder, tratando-a como um pacto entre vida e morte."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Fundador e líder da Party _Personagens/_Grupo/Devil May Cry. Sua busca pela verdade sobre a morte e a magia frequentemente influencia os rumos do grupo."
+        },
+        {
+          "title": "Histórico",
+          "content": "Noar foi marcado pela essência dos Kindred e retornou da morte transformado. Desde então, busca compreender a verdadeira natureza da magia e o significado da morte. Tornou-se um usuário de Shadow Magic e segue investigando os mistérios do Véu."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "> \"Prefiro ser consumido pela própria magia do que deixá-la desaparecer comigo.\"\n\nSua presença costuma ser acompanhada por uma sensação estranha de silêncio e vazio."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-osamus-md",
+      "kind": "npc",
+      "name": "Osamus",
+      "source": "Vila em Perigo",
+      "tags": [
+        "npc",
+        "prefeito"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Osamus.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Osamus",
+        "titulo": "Prefeito de Vila",
+        "raca": "",
+        "classe": "",
+        "origem": "Vila em Perigo",
+        "faccao": "",
+        "localizacao": "Vila em Perigo",
+        "relacao": "",
+        "conexao": [
+          "Vierna"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": false,
+        "importancia": "Média",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Osamus.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "prefeito"
+        ],
+        "aliases": []
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Descrição física ainda não registrada."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Pragmático e preocupado com o bem-estar de sua comunidade."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Prefeito da Vila em Perigo."
+        },
+        {
+          "title": "Histórico",
+          "content": "Responsável pela administração local durante um período de dificuldades para sua vila."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Costuma colocar a sobrevivência da população acima de interesses políticos."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-professor-arthas-md",
+      "kind": "npc",
+      "name": "Professor Arthas",
+      "tags": [
+        "npc",
+        "mago",
+        "arquimago",
+        "necromante"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Professor Arthas.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Professor Arthas",
+        "titulo": "Arquimago da Torre",
+        "raca": "",
+        "classe": [
+          "Necromante",
+          "Arquimago"
+        ],
+        "origem": "",
+        "faccao": "[[_Personagens/_Local/Torre da Magia]]",
+        "localizacao": "",
+        "relacao": "",
+        "conexao": [
+          "[[_Personagens/_NPCs/Noar.md]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": false,
+        "importancia": "Alta",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Professor.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "mago",
+          "arquimago",
+          "necromante"
+        ],
+        "aliases": [
+          "Arthas"
+        ],
+        "Grupo": [
+          "[[_Personagens/_Local/Torre da Magia.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Um homem de idade avançada com vestes arcanas elaboradas e olhar penetrante. Sua postura transmite autoridade e conhecimento acumulado ao longo de décadas de estudo. A simples presença de Arthas faz com que aprendizes e magos mais jovens mantenham respeito e cautela."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Calmo, metódico e extremamente inteligente. Arthas prefere observar antes de agir, analisando todas as possibilidades antes de tomar uma decisão.\n\nDiferente da maioria dos necromantes, não enxerga a morte como algo maligno, mas como uma parte natural da existência que deve ser compreendida."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Professor e pesquisador ligado à _Personagens/_Local/Torre da Magia. Pode servir como mentor, avaliador ou estudioso de fenômenos mágicos incomuns.\n\nUsuários de magia rara ou proibida costumam despertar seu interesse acadêmico."
+        },
+        {
+          "title": "Histórico",
+          "content": "Reconhecido como um dos maiores estudiosos da necromancia de sua geração, Arthas alcançou o título de Arquimago após décadas dedicadas à pesquisa arcana.\n\nSeu trabalho ajudou a consolidar o conhecimento mágico preservado pelas Torres da Magia após a proibição estatal da magia.\n\nApesar de sua reputação respeitável, muitos ainda olham para sua especialização em necromancia com desconfiança."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "> \"A morte não é o oposto da vida. É apenas a página seguinte.\"\n\n- Fascinado por fenômenos ligados à alma.\n- Mantém uma vasta coleção de registros sobre mortos-vivos, espíritos e entidades do Véu.\n- Possui acesso a conhecimentos que poucos magos vivos conhecem.\n- Provavelmente teria grande interesse em estudar _Personagens/_NPCs/Noar, os Kindred e a Shadow Magic."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-puggro-md",
+      "kind": "npc",
+      "name": "Puggro",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "bardo",
+        "party"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Puggro.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Puggro",
+        "titulo": "",
+        "raca": "Cachorro",
+        "classe": "Bardo",
+        "origem": "Acampamento",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Tomomi.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "bardo",
+          "party"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Um cachorro aventureiro que acompanha a Party. Sua expressão costuma transmitir mais inteligência do que seria esperado para um animal comum."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Carismático, leal e surpreendentemente expressivo. Costuma elevar o moral do grupo através de sua presença e de suas habilidades musicais."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Nem sempre fica claro onde termina o instinto animal e começa a personalidade do bardo."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-skye-md",
+      "kind": "npc",
+      "name": "Skye",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "feiticeiro",
+        "caos"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Skye.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Skye",
+        "titulo": "A Criança do Diário do Caos",
+        "raca": "Feiticeira do Chaos",
+        "classe": "Feiticeiro",
+        "origem": "Acampamento",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [],
+        "status": "Ativo",
+        "vivo": false,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Skye.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "feiticeiro",
+          "caos"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Uma criança de aparência inocente que carrega constantemente um diário antigo. Apesar de sua pouca idade, há algo inquietante em seu olhar, como se observasse coisas que os demais não conseguem perceber."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Curiosa e observadora. Costuma registrar acontecimentos em seu diário, tratando eventos estranhos com uma naturalidade desconfortável. Frequentemente parece saber mais do que deveria."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "Pouco se sabe sobre a origem de Skye. Seu diário parece possuir propriedades anormais, permitindo que ela enxergue aspectos ocultos da realidade e visões relacionadas à morte."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Carrega um diário capaz de mostrar o mundo morto.\n\nÀs vezes escreve páginas inteiras sem olhar para o papel, como se alguém estivesse guiando sua mão.\n\n> \"O diário já sabia que isso aconteceria.\""
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-tai-md",
+      "kind": "npc",
+      "name": "Tai",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "guerreiro",
+        "orc"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Tai.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Tai",
+        "titulo": "",
+        "raca": "Orc",
+        "classe": "Guerreiro",
+        "origem": "Acampamento",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Tai.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "guerreiro",
+          "orc"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Orc de aproximadamente 1,95m de altura. Possui cabelo cinzento, barba longa e inúmeras cicatrizes espalhadas pelo corpo, evidências de uma vida dedicada ao combate."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Experiente e resiliente, encara desafios com firmeza. Apesar de suas capacidades marciais, parece possuir um senso de direção bastante questionável."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "Veterano de inúmeros confrontos, cada cicatriz representa uma história ainda não contada."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Tem uma habilidade quase sobrenatural para se perder mesmo em trajetos simples."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-umbrael-md",
+      "kind": "npc",
+      "name": "Umbrael",
+      "source": "Mundo",
+      "tags": [
+        "npc",
+        "feiticeiro",
+        "kindred",
+        "sombras"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Umbrael.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Umbrael",
+        "titulo": "O Marcado pelos Kindred",
+        "raca": "Humano",
+        "classe": "Feiticeiro",
+        "origem": "Mundo",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [
+          "[[Kindred]]",
+          "[[Shadow Magic]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "Alta",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Umbrael.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "feiticeiro",
+          "kindred",
+          "sombras"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Homem de pele clara, olhos vermelhos intensos e presença inquietante. Mede aproximadamente 1,79m e costuma ser envolto por sombras que parecem reagir às suas emoções e à sua magia."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Assombrado pelos mistérios da morte e pela marca deixada pelos Kindred. Umbrael demonstra curiosidade constante sobre conhecimentos ocultos e raramente encara a magia como algo simples ou comum.\n\nEmbora mantenha o controle de suas emoções, existe sempre a sensação de que algo dentro dele observa o mundo através de seus olhos."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da _Personagens/_Grupo/Devil May Cry e usuário de Shadow Magic.\n\nSua ligação com os Kindred o coloca em contato com fenômenos sobrenaturais, entidades do Véu e segredos que muitos prefeririam esquecer."
+        },
+        {
+          "title": "Histórico",
+          "content": "Umbrael nasceu com um dom incomum para a magia. Após ser marcado pelos Kindred, sua conexão com as sombras tornou-se ainda mais profunda.\n\nSua conjuração não se manifesta como energia arcana tradicional. Em vez disso, assume a forma de fumaça negra, sombras líquidas e ecos da morte.\n\nQuando utiliza magia, o ambiente ao seu redor parece reagir:\n\n- As sombras se alongam.\n- A temperatura diminui.\n- As luzes enfraquecem.\n- O ar se torna pesado.\n\nMuitos acreditam que seus feitiços criam breves fissuras entre o mundo dos vivos e aquilo que existe além dele."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "> \"A magia nunca foi algo aprendido por mim. Ela nasceu comigo.\"\n\n- Marcado pelos Kindred.\n- Usuário de Shadow Magic.\n- Possui a habilidade 🖤Heart of Darkness.\n- Sua magia parece viva para alguns observadores.\n- Outros juram que ela parece faminta.\n- Frequentemente associado a presságios, sombras e fenômenos ligados à morte.\n\n### Impressão Sobrenatural\n\nQuando Umbrael conjura magia, observadores podem sentir uma estranha sensação de vazio, como se algo do outro lado do Véu estivesse prestando atenção."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-umpianos-md",
+      "kind": "npc",
+      "name": "Umpianos",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "guerreiro",
+        "leviatan"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Umpianos.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Umpianos",
+        "titulo": "",
+        "raca": "Leviatan",
+        "classe": "Guerreiro",
+        "origem": "Acampamento",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Líder da Party",
+        "conexao": [
+          "[[_Personagens/_NPCs/Kitteh.md]]"
+        ],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Danilo.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "guerreiro",
+          "leviatan"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Figura alta e imponente. Usa roupas pretas, um chapéu característico e carrega uma âncora de quatro pontas como arma. Seus olhos vermelhos chamam atenção imediatamente."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Calmo e intimidador. Sua postura sugere alguém acostumado a enfrentar perigos sem demonstrar medo."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "A enorme âncora que carrega parece mais uma extensão de seu corpo do que uma simples arma."
+        }
+      ]
+    },
+    {
+      "id": "personagens-npcs-zero-md",
+      "kind": "npc",
+      "name": "Zero",
+      "source": "Acampamento",
+      "tags": [
+        "npc",
+        "guerreiro",
+        "party"
+      ],
+      "sourcePath": "_Personagens/_NPCs/Zero.md",
+      "frontmatter": {
+        "tipo": "npc",
+        "nome": "Zero",
+        "titulo": "",
+        "raca": "Humano",
+        "classe": "Guerreiro",
+        "origem": "Acampamento",
+        "faccao": "[[_Personagens/_Grupo/Devil May Cry]]",
+        "localizacao": "",
+        "relacao": "Membro da Party",
+        "conexao": [],
+        "status": "Ativo",
+        "vivo": true,
+        "hostil": false,
+        "aliado": true,
+        "importancia": "",
+        "primeiro_encontro": "",
+        "ultima_interacao": "",
+        "image": "image/Zero.png",
+        "icone": "",
+        "tags": [
+          "npc",
+          "guerreiro",
+          "party"
+        ],
+        "aliases": [],
+        "Grupo": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]",
+          "[[_Personagens/_Grupo/Lobos Brancos.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Controle de Relação",
+          "content": "> [!info]- Resumo rápido\n> **Raça:** \n> **Classe:** \n> **Relação:** \n> **Conexão:** \n> **Localização:** \n> **Status:**"
+        },
+        {
+          "title": "Aparência",
+          "content": "Descrição física ainda não definida."
+        },
+        {
+          "title": "Personalidade",
+          "content": "Reservado e difícil de interpretar. Costuma revelar pouco sobre si mesmo."
+        },
+        {
+          "title": "Relação com o Personagem",
+          "content": "Membro da Party _Personagens/_Grupo/Devil May Cry."
+        },
+        {
+          "title": "Histórico",
+          "content": "A definir."
+        },
+        {
+          "title": "Notas de Roleplay",
+          "content": "Seu nome parece carregar um significado maior do que aparenta à primeira vista."
+        }
+      ]
+    },
+    {
+      "id": "quests-falar-com-o-corvo-md",
+      "kind": "quest",
+      "name": "Falar com o corvo",
+      "category": "Lore",
+      "tags": [],
+      "sourcePath": "_Quests/Falar com o Corvo.md",
+      "frontmatter": {
+        "tipo": "quest",
+        "nome": "Falar com o corvo",
+        "categoria": "Lore",
+        "status": "ativa",
+        "prioridade": "Alta",
+        "dada_por": "",
+        "localizacao": "Bell for ROXO",
+        "sessao_inicio": "1",
+        "sessao_fim": "",
+        "recompensa": "",
+        "progresso": "0",
+        "tags": [],
+        "aliases": [],
+        "Conexão": [
+          "[[_Personagens/_Grupo/Devil May Cry.md]]"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Objetivo",
+          "content": "Chegar ao um acordo com o Corvo"
+        },
+        {
+          "title": "Descrição",
+          "content": "Descrição completa."
+        },
+        {
+          "title": "Progresso",
+          "content": "Acompanhamento da missão."
+        },
+        {
+          "title": "Personagens Relacionados",
+          "content": "NPCs ou jogadores envolvidos."
+        },
+        {
+          "title": "Recompensas",
+          "content": "Recompensas da missão."
+        },
+        {
+          "title": "Notas",
+          "content": "Informações adicionais."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
