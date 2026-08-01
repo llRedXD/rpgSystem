@@ -1,0 +1,1 @@
+Cria uma pequena orbe de Luz sobre a pulseira
