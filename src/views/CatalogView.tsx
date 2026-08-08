@@ -1,4 +1,4 @@
-import { Plus, Search } from "lucide-react";
+import { ArrowLeft, Plus, Search } from "lucide-react";
 import type { ChangeEvent, FormEvent } from "react";
 import { EntityDetail } from "../components/EntityDetail";
 import { EntityEditor } from "../components/EntityEditor";
@@ -17,6 +17,7 @@ export function CatalogView({
   isEditing,
   npcOptions,
   onCancelEdit,
+  onBackToSheet,
   onCreateStart,
   onDelete,
   onEdit,
@@ -45,6 +46,7 @@ export function CatalogView({
   isEditing: boolean;
   npcOptions: Entity[];
   onCancelEdit: () => void;
+  onBackToSheet?: () => void;
   onCreateStart: () => void;
   onDelete: (entity: Entity) => void;
   onEdit: (entity: Entity) => void;
@@ -66,6 +68,12 @@ export function CatalogView({
   return (
     <>
       <div className="toolbar">
+        {onBackToSheet && (
+          <button className="secondary-button" onClick={onBackToSheet} type="button">
+            <ArrowLeft size={16} />
+            Voltar para ficha
+          </button>
+        )}
         <div className="search">
           <Search size={18} />
           <input aria-label="Buscar" onChange={(event: ChangeEvent<HTMLInputElement>) => onQueryChange(event.target.value)} placeholder="Buscar por nome, tag, custo..." value={query} />

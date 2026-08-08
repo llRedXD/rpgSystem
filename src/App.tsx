@@ -24,6 +24,7 @@ export function App() {
   const [data, setData] = useState<VaultData>(emptyData);
   const [apiOnline, setApiOnline] = useState(false);
   const [activeView, setActiveView] = useState<ViewKind>("sheet");
+  const [canReturnToSheet, setCanReturnToSheet] = useState(false);
   const [query, setQuery] = useState("");
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [activeCharacterId, setActiveCharacterId] = useState("");
@@ -123,9 +124,24 @@ export function App() {
 
   function changeTab(kind: ViewKind) {
     setActiveView(kind);
+    setCanReturnToSheet(false);
     setSelectedId(null);
     setIsEditing(false);
     if (kind !== "sheet") setForm({ ...emptyForm, kind });
+  }
+
+  function openEntityFromSheet(entity: Entity) {
+    setCanReturnToSheet(true);
+    setActiveView(entity.kind);
+    setSelectedId(entity.id);
+    setIsEditing(false);
+  }
+
+  function returnToSheet() {
+    setActiveView("sheet");
+    setCanReturnToSheet(false);
+    setSelectedId(null);
+    setIsEditing(false);
   }
 
   async function createCharacter(event: FormEvent) {
@@ -277,10 +293,7 @@ export function App() {
             entities={campaignEntities}
             fields={fields}
             onCharacterFieldSave={saveCharacterField}
-            onEntitySelect={(entity) => {
-              setActiveView(entity.kind);
-              setSelectedId(entity.id);
-            }}
+            onEntitySelect={openEntityFromSheet}
             onResourceDelete={deleteResource}
             onResourceSave={saveResource}
             onStateChange={saveStateForEntity}
@@ -300,6 +313,7 @@ export function App() {
             npcOptions={npcEntities}
             onCancelEdit={() => setIsEditing(false)}
             onCreateStart={startCreate}
+            onBackToSheet={canReturnToSheet ? returnToSheet : undefined}
             onDelete={deleteEntity}
             onEdit={startEdit}
             onEntitySelect={setSelectedId}
